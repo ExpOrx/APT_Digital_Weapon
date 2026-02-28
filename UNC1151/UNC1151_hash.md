@@ -67,3 +67,7 @@
 |[aa92861a365dc4676fc88ae6a65ddb10](https://www.virustotal.com/gui/file/aa92861a365dc4676fc88ae6a65ddb10)|PPT|Valyria|2024-06-04 16:20:13|підтримка ветеранів війни.ppt|
 |[0a5f9ac1e572d0e8edcd9aa26e0566d3](https://www.virustotal.com/gui/file/0a5f9ac1e572d0e8edcd9aa26e0566d3)|HTML||2024-02-19 12:52:17|SR-319.html|
 |[10fb1062c503be8a311a8e2916375e00](https://www.virustotal.com/gui/file/10fb1062c503be8a311a8e2916375e00)|RAR||2024-02-19 12:50:49|73915342.rar|
+|[59b4add2262c4f44a3dc955893fe583d](https://www.virustotal.com/gui/file/59b4add2262c4f44a3dc955893fe583d)|Win32 DLL||2025-12-12 13:14:56|EdgeUpdateUtil.dll|
+|[ec0e4a3dcfcc85ed52783f7cf2e80ddf](https://www.virustotal.com/gui/file/ec0e4a3dcfcc85ed52783f7cf2e80ddf)|DOC||2025-11-06 09:42:23|_6a22c0f7cafd717d4bc7408d7cf045f864939dd11f6d61a1b557e25a65fe4b7e.doc|
+|[9f70fdf21212846b23a4a2fa188fc6db](https://www.virustotal.com/gui/file/9f70fdf21212846b23a4a2fa188fc6db)|TXT||2025-08-20 13:32:42| |
+|[af5bd3584dba96a1bf765ed9aefe7f1d](https://www.virustotal.com/gui/file/af5bd3584dba96a1bf765ed9aefe7f1d)|RAR||2025-07-31 12:52:12|Zalacznik.rar|

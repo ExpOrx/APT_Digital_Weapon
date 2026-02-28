@@ -107,3 +107,4 @@
 |[ab01f085916506cd7118f86c7b4951a4](https://www.virustotal.com/gui/file/ab01f085916506cd7118f86c7b4951a4)|Win32 EXE|Generickdz|2023-09-23 17:01:44|ab01f085916506cd7118f86c7b4951a4.virus|
 |[0a7f8233dba3b62e1d36cba78adccf5f](https://www.virustotal.com/gui/file/0a7f8233dba3b62e1d36cba78adccf5f)|Win32 EXE|LockBit|2023-06-26 10:22:28|0a7f8233dba3b62e1d36cba78adccf5f.virus|
 |[8a3436554bae0050c046bab9c9bdc074](https://www.virustotal.com/gui/file/8a3436554bae0050c046bab9c9bdc074)|Win32 EXE|AsyncRAT|2023-06-05 09:34:40|360realpro.exe|
+|[6e28209051d97c149202fab80f8817cf](https://www.virustotal.com/gui/file/6e28209051d97c149202fab80f8817cf)|ZIP|rrat|2025-05-30 04:20:39|1.zip|

@@ -172,3 +172,70 @@
 |[b2ddbb49810d2dcdcaf4501f05ed3874](https://www.virustotal.com/gui/file/b2ddbb49810d2dcdcaf4501f05ed3874)|Win32 EXE||2016-07-02 09:34:50|pupy_test.exe|
 |[5bb4c96a077c4347a614a6e37bf588b1](https://www.virustotal.com/gui/file/5bb4c96a077c4347a614a6e37bf588b1)|Win32 EXE||2015-12-16 02:44:56| |
 |[15df7a850f8c697f4cdfc1f3de882951](https://www.virustotal.com/gui/file/15df7a850f8c697f4cdfc1f3de882951)|Win32 EXE||2015-09-22 19:00:43|pupyx86.exe|
+|[933ddaaa55f9c90dad952c76198623f5](https://www.virustotal.com/gui/file/933ddaaa55f9c90dad952c76198623f5)|Win32 EXE||2024-10-28 09:50:14|/home/petik/ss/malware/2024-10-29_933ddaaa55f9c90dad952c76198623f5_mafia_stonedrill|
+|[fec71ab0e9662f376eefce6cee34e3b1](https://www.virustotal.com/gui/file/fec71ab0e9662f376eefce6cee34e3b1)|Win32 EXE|Zbot|2022-08-14 01:09:41|StikyNote.tmp|
+|[60869b6b370ea7442f2e3145734ddaf9](https://www.virustotal.com/gui/file/60869b6b370ea7442f2e3145734ddaf9)|Win32 EXE|Zbot|2022-08-14 01:04:08|fa378b150c8e40af25058c85d1f3f4a3ad78b38c7da16c8104a10d13addcee36-dropped.bin|
+|[92faf102a73e8bd054e3a9be488a57bf](https://www.virustotal.com/gui/file/92faf102a73e8bd054e3a9be488a57bf)|Win32 EXE|Zbot|2022-08-14 01:01:06|92faf102a73e8bd054e3a9be488a57bf.virus|
+|[1660f5b013245413d49d6104c6520379](https://www.virustotal.com/gui/file/1660f5b013245413d49d6104c6520379)|Win32 EXE|Pupy|2021-09-05 05:30:49|1660f5b013245413d49d6104c6520379.virus|
+|[92ec961ae278d4ef306997d2a584a8ed](https://www.virustotal.com/gui/file/92ec961ae278d4ef306997d2a584a8ed)|Win32 EXE||2021-04-21 09:35:33|009552cbc2c313280635ec8eedc53e21cd23b5f7d79884f024e9b92426dac76b_shap.exe|
+|[e3e8d586952830102094ee10f39004d3](https://www.virustotal.com/gui/file/e3e8d586952830102094ee10f39004d3)|Win32 EXE||2021-04-21 09:31:57|076bfe6ee9aed1b208eb7c640c0aede3dd463b5f0645ae6e3f3358a706f35c58_shap.exe|
+|[d53168650c80a22b87ebd0b1923c50a6](https://www.virustotal.com/gui/file/d53168650c80a22b87ebd0b1923c50a6)|Win32 EXE||2021-04-21 09:28:02|08ce9ad6bcd887f7846346538dbe5098047d4a3cd74b6d5c3b9ceab3a455ebc7_shap.exe|
+|[e3f7c4e053295a52673a12d925f95f54](https://www.virustotal.com/gui/file/e3f7c4e053295a52673a12d925f95f54)|Win32 EXE||2021-03-30 20:39:01|paddedMalware/FilteredMalwarePadded/VirusShare_c5318c7f77cb24f43386cce85b05b536|
+|[535b1217f8ee92d682563f8ce5215467](https://www.virustotal.com/gui/file/535b1217f8ee92d682563f8ce5215467)|Win32 EXE||2020-05-15 18:02:45| |
+|[698c6494c990fa07505da2c97403ad0f](https://www.virustotal.com/gui/file/698c6494c990fa07505da2c97403ad0f)|Win32 EXE||2020-05-14 19:21:37| |
+|[ae14b99e0f4247d412f196c3b18d54e6](https://www.virustotal.com/gui/file/ae14b99e0f4247d412f196c3b18d54e6)|Win32 EXE||2020-05-07 10:20:56|ae14b99e0f4247d412f196c3b18d54e6.virus|
+|[c2e2e38d131e9c5e61893ecf581573eb](https://www.virustotal.com/gui/file/c2e2e38d131e9c5e61893ecf581573eb)|Win32 EXE||2020-05-07 10:20:54|c2e2e38d131e9c5e61893ecf581573eb.virus|
+|[1fc5797962a9013dd0c3a47bad83264b](https://www.virustotal.com/gui/file/1fc5797962a9013dd0c3a47bad83264b)|Win32 EXE||2020-03-24 10:33:24|C:\Users\<USER>\AppData\Local\Temp\StikyNote.exe|
+|[db7f876d9af35c117b1b8f73fc0985b8](https://www.virustotal.com/gui/file/db7f876d9af35c117b1b8f73fc0985b8)|Win32 EXE||2020-01-14 01:01:32|C:\Users\<USER>\AppData\Local\Temp\StikyNote.exe|
+|[f5cb90b3731e975b635a19ed5f9c027a](https://www.virustotal.com/gui/file/f5cb90b3731e975b635a19ed5f9c027a)|Win32 EXE||2020-01-13 21:31:39|dttcodexgigas.133e7ee61f6d2aa360890c56cb2038c5c1e5d18c|
+|[067f7061bba7f99b43b1f036d5114935](https://www.virustotal.com/gui/file/067f7061bba7f99b43b1f036d5114935)|Win32 EXE||2020-01-13 06:12:01| |
+|[e581a144f7e7b01fcc41e75d837df5fa](https://www.virustotal.com/gui/file/e581a144f7e7b01fcc41e75d837df5fa)|Win32 EXE||2020-01-03 00:15:17|StikyNote.exe|
+|[c0725c6d3045293c53b3d47e0d28c377](https://www.virustotal.com/gui/file/c0725c6d3045293c53b3d47e0d28c377)|Win32 EXE|Zbot|2019-04-18 02:59:34| |
+|[b63ae6a0b873d3d20a92cce40e0cbb81](https://www.virustotal.com/gui/file/b63ae6a0b873d3d20a92cce40e0cbb81)|Win32 EXE|Zbot|2019-04-11 11:02:24|b63ae6a0b873d3d20a92cce40e0cbb81.virus|
+|[93c91c1c5aa4c4770e3cb56f53ed8088](https://www.virustotal.com/gui/file/93c91c1c5aa4c4770e3cb56f53ed8088)|Win32 EXE|Zbot|2019-04-01 23:53:53| |
+|[81eb3c4cbb313ebc634e3c9fd6ce8eea](https://www.virustotal.com/gui/file/81eb3c4cbb313ebc634e3c9fd6ce8eea)|Win32 EXE||2019-03-17 04:29:55|StikyNote.exe|
+|[0b2bfb62f257b49466d0c70dd261d23d](https://www.virustotal.com/gui/file/0b2bfb62f257b49466d0c70dd261d23d)|Win32 EXE||2019-02-28 14:30:45| |
+|[d8e947e07ce6d3333f21239605267c01](https://www.virustotal.com/gui/file/d8e947e07ce6d3333f21239605267c01)|Win32 EXE||2018-12-29 18:05:57|d8e947e07ce6d3333f21239605267c01.virus|
+|[a44e90dfa37b2ddd437c26e8d316c400](https://www.virustotal.com/gui/file/a44e90dfa37b2ddd437c26e8d316c400)|Win32 EXE||2018-12-29 13:20:38|a44e90dfa37b2ddd437c26e8d316c400.virobj|
+|[e050bfd92982e00ca217196affbe6712](https://www.virustotal.com/gui/file/e050bfd92982e00ca217196affbe6712)|Win32 EXE|Zbot|2018-11-02 13:08:03|e050bfd92982e00ca217196affbe6712.virus|
+|[56f647d10650bfdf918633ffd9b7d647](https://www.virustotal.com/gui/file/56f647d10650bfdf918633ffd9b7d647)|Win32 EXE||2018-10-25 03:40:53|56f647d10650bfdf918633ffd9b7d647.virus|
+|[512d1f248f6bff1aa0302ef2b0b2c36f](https://www.virustotal.com/gui/file/512d1f248f6bff1aa0302ef2b0b2c36f)|Win32 EXE|Zbot|2018-09-14 18:11:08|512d1f248f6bff1aa0302ef2b0b2c36f.virus|
+|[0867b4c0866e92ed1d60b10d437563b4](https://www.virustotal.com/gui/file/0867b4c0866e92ed1d60b10d437563b4)|Win32 EXE||2018-07-15 12:55:44|0867b4c0866e92ed1d60b10d437563b4.virus|
+|[b4d5b9535acdb8cca5b264cb993977b4](https://www.virustotal.com/gui/file/b4d5b9535acdb8cca5b264cb993977b4)|Win32 EXE|Zbot|2018-07-12 04:41:52|StikyNote.exe|
+|[ba8a0b509b9ee3e24eb994ff29cc784a](https://www.virustotal.com/gui/file/ba8a0b509b9ee3e24eb994ff29cc784a)|Win32 EXE|Zbot|2018-07-07 13:05:51| |
+|[c2ebe868fe9e335672fcdbe8d9c0deef](https://www.virustotal.com/gui/file/c2ebe868fe9e335672fcdbe8d9c0deef)|Win32 EXE||2018-07-01 23:19:26|c2ebe868fe9e335672fcdbe8d9c0deef.virus|
+|[55563a01959bbf28a4aa24f7bee9de25](https://www.virustotal.com/gui/file/55563a01959bbf28a4aa24f7bee9de25)|Win32 EXE|Zbot|2018-06-14 02:28:22| |
+|[e13e68b933b8fe8955eac6fb97d9698c](https://www.virustotal.com/gui/file/e13e68b933b8fe8955eac6fb97d9698c)|Win32 EXE||2018-06-09 10:53:26|c6b784e8a865d46a_stikynote.exe|
+|[68378f0783c85ea2e1b278929f041f5f](https://www.virustotal.com/gui/file/68378f0783c85ea2e1b278929f041f5f)|Win32 EXE||2018-06-03 05:16:07|StikyNote.exe|
+|[6116b8265ccef7281bbe0874005a5e5d](https://www.virustotal.com/gui/file/6116b8265ccef7281bbe0874005a5e5d)|Win32 EXE||2018-06-01 17:52:24|6116b8265ccef7281bbe0874005a5e5d.virus|
+|[2453a95a34c2da62d94ec1a530e19943](https://www.virustotal.com/gui/file/2453a95a34c2da62d94ec1a530e19943)|Win32 EXE||2018-06-01 07:06:40|57f672b7f32751ea_stikynote.exe|
+|[bb357e991705d2cdf7d87d6b5d11b16e](https://www.virustotal.com/gui/file/bb357e991705d2cdf7d87d6b5d11b16e)|Win32 EXE|Zbot|2018-05-28 20:26:18| |
+|[f91e4074453b17bd27f10468bdb39640](https://www.virustotal.com/gui/file/f91e4074453b17bd27f10468bdb39640)|Win32 EXE||2018-05-16 03:46:49|codexgigas_3ec1b5081ec67d3e39ecc2d3f76f211f4695919b|
+|[9cbd6af56bf5c2fe70d95cd5318f9c43](https://www.virustotal.com/gui/file/9cbd6af56bf5c2fe70d95cd5318f9c43)|Win32 EXE||2018-05-02 12:59:39|codexgigas_3d32c4a4b611e03516bbf91f459341da3a63ddd7|
+|[91500771845534375c1d349b95d75616](https://www.virustotal.com/gui/file/91500771845534375c1d349b95d75616)|Win32 EXE|Zbot|2018-05-01 02:20:36|039a322c7ac152d4_stikynote.tmp|
+|[0604daff64e085c72633867d67f99f55](https://www.virustotal.com/gui/file/0604daff64e085c72633867d67f99f55)|Win32 EXE||2018-04-26 17:17:32|C:\Windows\hbh1dkh.exe|
+|[e93469952b93075480d091fb8dea24a8](https://www.virustotal.com/gui/file/e93469952b93075480d091fb8dea24a8)|Win32 EXE|Zbot|2018-04-14 21:25:23|e93469952b93075480d091fb8dea24a8.virus|
+|[d7124c6cf4826a8771e25d416d353f75](https://www.virustotal.com/gui/file/d7124c6cf4826a8771e25d416d353f75)|Win32 EXE||2018-04-11 21:24:05|d7124c6cf4826a8771e25d416d353f75.virus|
+|[a75220614b53b3e13c70717b71b26059](https://www.virustotal.com/gui/file/a75220614b53b3e13c70717b71b26059)|Win32 EXE||2018-04-10 19:39:42|a75220614b53b3e13c70717b71b26059|
+|[a01e206d266359ae983a084737b68066](https://www.virustotal.com/gui/file/a01e206d266359ae983a084737b68066)|Win32 EXE|Zbot|2018-04-10 08:04:40|codexgigas_e116a4eba014149144be51ee13db9609c9263d08|
+|[595349786a0f8e0590a407b2343e0e38](https://www.virustotal.com/gui/file/595349786a0f8e0590a407b2343e0e38)|Win32 EXE|Zbot|2018-03-29 06:11:43|codexgigas_4692ebaef66da5b4d7c6fb34931ccce3a8893f4b|
+|[3d2249f4267d64cf125a5f98cb8c4666](https://www.virustotal.com/gui/file/3d2249f4267d64cf125a5f98cb8c4666)|Win32 EXE||2018-03-28 19:28:58|codexgigas_e8dd41929615123f51642f08e87c870edd8bb032|
+|[67ff57ca06209d21aea79bd7636a36bd](https://www.virustotal.com/gui/file/67ff57ca06209d21aea79bd7636a36bd)|Win32 EXE||2018-03-23 04:07:00|StikyNote.tmp|
+|[a65c6cced214442b3b4acfb73c2a7b57](https://www.virustotal.com/gui/file/a65c6cced214442b3b4acfb73c2a7b57)|Win32 EXE|Zbot|2018-03-19 21:54:30|codexgigas_e1516a3b9171350a0139d7323c4b77eb573265ae|
+|[7fe79f52aaff0370d035c128f1c3a4ae](https://www.virustotal.com/gui/file/7fe79f52aaff0370d035c128f1c3a4ae)|Win32 EXE|Zbot|2018-03-18 12:49:17|StikyNote.exe|
+|[c3f22afb7b625efdc3e518e4f4693750](https://www.virustotal.com/gui/file/c3f22afb7b625efdc3e518e4f4693750)|Win32 EXE||2018-03-17 11:36:47|StikyNote.exe|
+|[22157f8a6c381ec9fdd1e3cd4f6c5f4c](https://www.virustotal.com/gui/file/22157f8a6c381ec9fdd1e3cd4f6c5f4c)|Win32 EXE||2018-03-17 11:24:28|codexgigas_47acb98d621680808a2785e2294ff13bb38686b1|
+|[de5051e433fc8c87985e7fd4d8b8274b](https://www.virustotal.com/gui/file/de5051e433fc8c87985e7fd4d8b8274b)|Win32 EXE||2018-03-07 21:33:23|de5051e433fc8c87985e7fd4d8b8274b.virus|
+|[4797a59ed1851b677281b55692f9c19a](https://www.virustotal.com/gui/file/4797a59ed1851b677281b55692f9c19a)|Win32 EXE|Zbot|2018-02-16 22:42:29|4797a59ed1851b677281b55692f9c19a.virus|
+|[6074b6b0ed6bf85eb73f553290788c3f](https://www.virustotal.com/gui/file/6074b6b0ed6bf85eb73f553290788c3f)|Win32 EXE|Zbot|2018-02-14 00:52:03|796f729f2200b42f19ea106caab4655666e5f985e0d015e1ecdb669e0f711864|
+|[baa550df046feb588d7a056b32ba3219](https://www.virustotal.com/gui/file/baa550df046feb588d7a056b32ba3219)|Win32 EXE|Zbot|2018-02-02 19:41:50|baa550df046feb588d7a056b32ba3219|
+|[b128f7b2c814c1df80c87475050fd266](https://www.virustotal.com/gui/file/b128f7b2c814c1df80c87475050fd266)|Win32 EXE|Strictor|2017-11-02 18:09:36|1002-a22a90816a48991e7e234d6a306b3879d8bb143c|
+|[b908b063cfe50921d9e78611c1ba3ac6](https://www.virustotal.com/gui/file/b908b063cfe50921d9e78611c1ba3ac6)|Win32 EXE||2017-09-18 18:05:38|b908b063cfe50921d9e78611c1ba3ac6|
+|[d4aea620a79f5adf45bb50911447c6c3](https://www.virustotal.com/gui/file/d4aea620a79f5adf45bb50911447c6c3)|Win32 EXE||2017-06-28 21:26:50|StikyNote.tmp|
+|[a6b0cc07a2338b57c9c82dfd82f0a412](https://www.virustotal.com/gui/file/a6b0cc07a2338b57c9c82dfd82f0a412)|Win32 EXE||2017-05-24 19:42:21|StikyNote.tmp|
+|[c4fd5eeb3b25ccfbb4fe35a100d51152](https://www.virustotal.com/gui/file/c4fd5eeb3b25ccfbb4fe35a100d51152)|Win32 EXE|Zbot|2017-04-19 09:28:47|c4fd5eeb3b25ccfbb4fe35a100d51152.virus|
+|[b7ccfb2d9f3b498784383b32791fd588](https://www.virustotal.com/gui/file/b7ccfb2d9f3b498784383b32791fd588)|Win32 EXE|Zbot|2017-04-16 14:46:56| |
+|[00086166da583c7270cb7424ea98d651](https://www.virustotal.com/gui/file/00086166da583c7270cb7424ea98d651)|Win32 EXE||2017-04-09 00:20:53|00086166da583c7270cb7424ea98d651.virus|
+|[a89bb38c92a9820adf9852dd0bc2c1ea](https://www.virustotal.com/gui/file/a89bb38c92a9820adf9852dd0bc2c1ea)|Win32 EXE|Zbot|2017-03-30 14:39:25| |
+|[574918ca29de595144556a2b83e2ab93](https://www.virustotal.com/gui/file/574918ca29de595144556a2b83e2ab93)|Win64 DLL|Injecto|2017-02-21 21:01:12|pupy64.dll|
+|[48c44a508919d2dae9f19cffd41ba33d](https://www.virustotal.com/gui/file/48c44a508919d2dae9f19cffd41ba33d)|Win32 EXE||2016-11-24 11:30:58|StikyNote.exe|

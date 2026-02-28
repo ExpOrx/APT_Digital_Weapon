@@ -465,3 +465,22 @@
 |[83155c96630b02eb3db0b8c423efa6f6](https://www.virustotal.com/gui/file/83155c96630b02eb3db0b8c423efa6f6)|FPX||2020-03-12 11:55:08|vbaProject.bin|
 |[278173e9086c9c233307e05deb9cb41c](https://www.virustotal.com/gui/file/278173e9086c9c233307e05deb9cb41c)|FPX||2017-05-14 21:31:40|vbaProject.bin|
 |[a1ef1d6a64862410aec0dbe80965b6f7](https://www.virustotal.com/gui/file/a1ef1d6a64862410aec0dbe80965b6f7)|FPX||2016-01-16 20:43:44|vbaProject.bin|
+|[5983e15764a1f1eada54da5e2c9f2994](https://www.virustotal.com/gui/file/5983e15764a1f1eada54da5e2c9f2994)|Win32 DLL|predator|2025-12-24 22:15:56|C:\Windows\5wo0i.exe|
+|[bb46e49af67aedbd47fdbc7232bac2b5](https://www.virustotal.com/gui/file/bb46e49af67aedbd47fdbc7232bac2b5)|Win64 DLL||2025-12-12 19:20:56|C:\Users\user\AppData\Local\Temp\StabWin\Wavsmp.dll|
+|[16d052240b3dd9fb76045a6254d2b691](https://www.virustotal.com/gui/file/16d052240b3dd9fb76045a6254d2b691)|Win32 DLL||2025-12-11 15:56:32|C:\Windows\wsup7b.exe|
+|[20c9ac59c444625a7ee364b410da8f11](https://www.virustotal.com/gui/file/20c9ac59c444625a7ee364b410da8f11)|Win32 EXE|Amadey|2025-11-06 06:05:05|dc297aded70b0692ad0a24509e7bbec210bc0a1c7a105e99e1a8f76e3861ad34.exe|
+|[f23c162e0f467a1e189284fadf24b748](https://www.virustotal.com/gui/file/f23c162e0f467a1e189284fadf24b748)|XLS|EmoDldr|2025-10-20 10:44:51|Seat allocation in ICAO - 054 Courses.XLS|
+|[faab68fe691eb6f52929b8e1ede45d0f](https://www.virustotal.com/gui/file/faab68fe691eb6f52929b8e1ede45d0f)|Win32 EXE|Snojan|2025-04-27 11:20:17|jimmy.exe|
+|[428d1c51d6ad106337b38a2b5901f1c9](https://www.virustotal.com/gui/file/428d1c51d6ad106337b38a2b5901f1c9)|Android||2024-12-02 08:42:46|428d1c51d6ad106337b38a2b5901f1c9.virus|
+|[449c66c7be9c8ad11a6a80d8b626fe16](https://www.virustotal.com/gui/file/449c66c7be9c8ad11a6a80d8b626fe16)|Android|androidos|2024-11-19 05:37:24|sample.apk|
+|[ff1026427767b7a91519e61ddbfe00f9](https://www.virustotal.com/gui/file/ff1026427767b7a91519e61ddbfe00f9)|Android||2024-08-22 07:15:28|Snap Messenger.apk|
+|[3d362793c7ed54a038b94a5ae0a6802a](https://www.virustotal.com/gui/file/3d362793c7ed54a038b94a5ae0a6802a)|Android||2024-07-26 10:30:05|Talk Space v1.3.2.apk|
+|[68229c1757f891075a64e4e9a386a8e8](https://www.virustotal.com/gui/file/68229c1757f891075a64e4e9a386a8e8)|Android||2024-02-03 16:55:48|8cd3225b843d08b9d489094d0dc679741ff24685539b2e6db6d91eb0279f4dfd.apk|
+|[9e28de48626fa2adb54a87ba8b9fd4d3](https://www.virustotal.com/gui/file/9e28de48626fa2adb54a87ba8b9fd4d3)|Android||2024-02-03 14:20:03|Tulip chat.apk|
+|[bd001d9fd30d3085101b29c58dfc6f8d](https://www.virustotal.com/gui/file/bd001d9fd30d3085101b29c58dfc6f8d)|DOCX||2022-09-30 00:30:54|C:\Windows\a8hip.exe|
+|[d13edb1b9074f7d86279c917b0a359a2](https://www.virustotal.com/gui/file/d13edb1b9074f7d86279c917b0a359a2)|DOCX||2022-08-14 06:49:23|MLA.xlsm|
+|[416cba831af5f5e699f7ab526238ede5](https://www.virustotal.com/gui/file/416cba831af5f5e699f7ab526238ede5)|DOCX||2022-04-17 10:58:46|C:\Windows\eqrbui1g.exe|
+|[4e3f1a311ed52b9af18f61d7c5ed85f5](https://www.virustotal.com/gui/file/4e3f1a311ed52b9af18f61d7c5ed85f5)|DOCX||2021-03-29 14:46:23|templates/D394XML_V2.xltm|
+|[a0f317cd4bc7ff6d47b69da996faf76a](https://www.virustotal.com/gui/file/a0f317cd4bc7ff6d47b69da996faf76a)|DOCX|o97m|2020-07-23 11:40:58|Jul 2020.docx|
+|[7f24bd6795895e0695daf84a48fad402](https://www.virustotal.com/gui/file/7f24bd6795895e0695daf84a48fad402)|Win32 DLL|Ehdoor|2020-06-03 00:58:12|C:\Users\<USER>\AppData\Local\Temp\WER167893459067.dll|
+|[0b2d5c315e5b12aaf660e5ef3d06a6c6](https://www.virustotal.com/gui/file/0b2d5c315e5b12aaf660e5ef3d06a6c6)|Win32 EXE||2018-07-10 11:57:30| |

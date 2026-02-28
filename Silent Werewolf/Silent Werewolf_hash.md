@@ -14,3 +14,8 @@
 |[5eb80cd26b79991c48ec7a0e200d8c69](https://www.virustotal.com/gui/file/5eb80cd26b79991c48ec7a0e200d8c69)|TXT|Zapchast|2025-03-18 05:58:43|aini.dat|
 |[5e4356ddf43facffc84aef53ebc58184](https://www.virustotal.com/gui/file/5e4356ddf43facffc84aef53ebc58184)|LNK||2025-03-18 05:56:52|Grafik_SL_0525.lnk|
 |[1832ae135d9765e58fd4a28cd095dde6](https://www.virustotal.com/gui/file/1832ae135d9765e58fd4a28cd095dde6)|ZIP|Zapchast|2025-03-18 05:53:08|Grafik_SL_0525.zip|
+|[2f6daae210158b3ee8aa31e5c40cd9e9](https://www.virustotal.com/gui/file/2f6daae210158b3ee8aa31e5c40cd9e9)|LNK|Stealer|2025-09-16 08:19:50|измерения_0007547.lnk|
+|[0e0149872bba0e3339f35ed32a455a1c](https://www.virustotal.com/gui/file/0e0149872bba0e3339f35ed32a455a1c)|Win64 DLL|Stealer|2025-09-16 08:18:44|ExportTests.dll|
+|[58213605a86e99dd4a3a7b9ebe806e32](https://www.virustotal.com/gui/file/58213605a86e99dd4a3a7b9ebe806e32)|LNK|Stealer|2025-09-16 08:18:00|обновление_сентябрь_2025_0007360.lnk|
+|[7f63ea139c40e0ec057b1f89d206051d](https://www.virustotal.com/gui/file/7f63ea139c40e0ec057b1f89d206051d)|Win64 DLL|Stealer|2025-09-16 06:13:44|ExportTests.dll|
+|[b084cc4f8cbb9fb36cb68e415ee95e8e](https://www.virustotal.com/gui/file/b084cc4f8cbb9fb36cb68e415ee95e8e)|LNK|Stealer|2025-09-16 06:13:14|запланированный_визит_0002494.lnk|

@@ -438,3 +438,4 @@
 |[800c0b04b5d68c2d88701fb4f2ca8e4e](https://www.virustotal.com/gui/file/800c0b04b5d68c2d88701fb4f2ca8e4e)|Win32 EXE|Zbot|2022-11-23 04:03:47| |
 |[e0353bfd93f2f3618fc8e165ca50e50c](https://www.virustotal.com/gui/file/e0353bfd93f2f3618fc8e165ca50e50c)|Win32 EXE|Graftor|2022-07-26 05:32:30|%ALLUSERSPROFILE%\syncdownoptzhostproc.exe|
 |[ec6373d4fa0f3b2066aea5c50e365136](https://www.virustotal.com/gui/file/ec6373d4fa0f3b2066aea5c50e365136)|Win32 EXE|Graftor|2022-07-26 04:56:35|4e77963ba7f70d6777a77c158fab61024f384877d78282d31ba7bbac06724b68_sig_replaced|
+|[69b8cef8c1db2ca3f1e4cc6771eb812c](https://www.virustotal.com/gui/file/69b8cef8c1db2ca3f1e4cc6771eb812c)|Win32 EXE|Malagent|2021-10-26 23:08:14|C:\Windows\9pqst6.exe|

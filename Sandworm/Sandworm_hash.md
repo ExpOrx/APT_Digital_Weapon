@@ -54,3 +54,8 @@
 |[63bf346765b0a51dccf7324ab05459e2](https://www.virustotal.com/gui/file/63bf346765b0a51dccf7324ab05459e2)|Win32 EXE||2023-07-30 00:57:25|63bf346765b0a51dccf7324ab05459e2.virus|
 |[f87443710d3bb10e348dcb1a9461fb8c](https://www.virustotal.com/gui/file/f87443710d3bb10e348dcb1a9461fb8c)|TXT||2022-12-11 16:58:48|client.aspx|
 |[11e35f06e0e88e76104bdb467cf65b27](https://www.virustotal.com/gui/file/11e35f06e0e88e76104bdb467cf65b27)|TAR|java|2022-10-27 10:49:51|news.jpg|
+|[75fec5afb2deebab6dd9c16d9de35032](https://www.virustotal.com/gui/file/75fec5afb2deebab6dd9c16d9de35032)|Win32 EXE||2026-01-30 10:36:02|D:\auto_black_abuse\resources\unzipped\20260202_033432_2026-01-30\60c70cdcb1e998bffed2e6e7298e1ab6bb3d90df04e437486c04e77c411cae4b.exe|
+|[c4379da51e8b9e86ec3de934f9373f4a](https://www.virustotal.com/gui/file/c4379da51e8b9e86ec3de934f9373f4a)|Win32 EXE||2026-01-30 10:35:54|D:\auto_black_abuse\resources\unzipped\20260202_033432_2026-01-30\d1389a1ff652f8ca5576f10e9fa2bf8e8398699ddfc87ddd3e26adb201242160.exe|
+|[a727362416834fa63672b87820ff7f27](https://www.virustotal.com/gui/file/a727362416834fa63672b87820ff7f27)|Win32 EXE||2026-01-30 10:35:33|D:\auto_black_abuse\resources\unzipped\20260202_033432_2026-01-30\835b0d87ed2d49899ab6f9479cddb8b4e03f5aeb2365c50a51f9088dcede68d5.exe|
+|[9d896e0e3e369c2edf1c8fb070f49c22](https://www.virustotal.com/gui/file/9d896e0e3e369c2edf1c8fb070f49c22)|Win32 EXE||2025-11-28 20:19:48|/home/petik/ss/malware/2025-11-30_9d896e0e3e369c2edf1c8fb070f49c22_amadey_elex_karagany_redline-stealer_rhadamanthys_smoke-loader_stealc|
+|[5249503900c735425130477649872dfb](https://www.virustotal.com/gui/file/5249503900c735425130477649872dfb)|Win32 EXE||2024-11-11 20:07:14|Rubeus.exe|

@@ -16,3 +16,7 @@
 |[4433cdf3fe6c47567f65717ad57b0271](https://www.virustotal.com/gui/file/4433cdf3fe6c47567f65717ad57b0271)|Win64 EXE||2023-07-19 08:53:51|5.exe|
 |[456ba9f5ca408adeb3cb8bc550cb2642](https://www.virustotal.com/gui/file/456ba9f5ca408adeb3cb8bc550cb2642)|Win64 EXE||2023-07-06 05:35:54|1.exe|
 |[92306905be5b717654d5b105cd506bdd](https://www.virustotal.com/gui/file/92306905be5b717654d5b105cd506bdd)|Win64 EXE||2023-05-09 09:44:45|dwn.exe|
+|[64077580a05e7ccb26587d2de9675523](https://www.virustotal.com/gui/file/64077580a05e7ccb26587d2de9675523)|Win64 EXE||2025-11-09 17:00:16|ASDTool.exe|
+|[7000b9fc622f702b4d1b38b567a9dc1a](https://www.virustotal.com/gui/file/7000b9fc622f702b4d1b38b567a9dc1a)|Win64 EXE|Fakeav|2025-11-09 16:00:02|BDReinit|
+|[788c02052bf41297e1dfb684ee8f27bd](https://www.virustotal.com/gui/file/788c02052bf41297e1dfb684ee8f27bd)|Win64 EXE||2025-10-27 13:48:49|BDReinit|
+|[33d17b4aecff41a87e809fd8087b0f7f](https://www.virustotal.com/gui/file/33d17b4aecff41a87e809fd8087b0f7f)|Win64 EXE||2025-10-09 16:45:59|mitm_install_tool|

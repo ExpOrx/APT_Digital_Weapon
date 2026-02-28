@@ -319,3 +319,54 @@
 |[17bbcce70b9554c550c1b0c909fa602a](https://www.virustotal.com/gui/file/17bbcce70b9554c550c1b0c909fa602a)|Android|androidos|2023-01-05 06:01:09|base.apk|
 |[753d0243653081e28c74255d049487e6](https://www.virustotal.com/gui/file/753d0243653081e28c74255d049487e6)|Android||2022-08-02 10:06:27|Ziraat Mobil.apk|
 |[9f216007822191729e4bbb4f80f2c26e](https://www.virustotal.com/gui/file/9f216007822191729e4bbb4f80f2c26e)|Win32 DLL|Denes|2020-01-09 04:57:47|DNSClient.dll|
+|[df79cfe7df1b9e343671d789dad5998a](https://www.virustotal.com/gui/file/df79cfe7df1b9e343671d789dad5998a)|FPX||2026-01-22 02:52:57|_699c6e21eefddaebb9ebd36c4648142a8fbbc78faa3112240cd856b49b37f116.fpx|
+|[c478e472f6223e7ee92cff8b459e55e2](https://www.virustotal.com/gui/file/c478e472f6223e7ee92cff8b459e55e2)|Win64 EXE||2026-01-06 18:47:44|CertificationKit.ini|
+|[d2b0785b69f8578bdddf039634507f47](https://www.virustotal.com/gui/file/d2b0785b69f8578bdddf039634507f47)|FPX||2026-01-06 13:13:53|New Cybersecurity Guidelines.msg|
+|[3a95186019af1943a0ea0f8eb07a288f](https://www.virustotal.com/gui/file/3a95186019af1943a0ea0f8eb07a288f)|DOC||2026-01-06 07:58:40|__attach_version1.0_#00000000/__substg1.0_37010102|
+|[d276b8c1660f264d64eff3474718509b](https://www.virustotal.com/gui/file/d276b8c1660f264d64eff3474718509b)|Win64 EXE||2025-12-07 05:59:39|nginx.exe|
+|[cd555279b6438260ec71b32e4d02cd9d](https://www.virustotal.com/gui/file/cd555279b6438260ec71b32e4d02cd9d)|Win64 EXE||2025-12-07 05:57:14|cloud.exe|
+|[404f5b1ff4ed035c6178d1789192c4d8](https://www.virustotal.com/gui/file/404f5b1ff4ed035c6178d1789192c4d8)|Win64 EXE||2025-11-25 15:34:46|art.exe|
+|[d70ddec75de88bf4ca7cbb67b56627f6](https://www.virustotal.com/gui/file/d70ddec75de88bf4ca7cbb67b56627f6)|Win64 EXE||2025-11-20 08:45:49|art.exe|
+|[9e06b36f4da737b8d699a6846c2540e9](https://www.virustotal.com/gui/file/9e06b36f4da737b8d699a6846c2540e9)|Win64 EXE||2025-11-19 07:45:37|%ALLUSERPROFILE%\programlogs\hqhkob.exe|
+|[47e312ecca7af098bb1c6c69188f54cf](https://www.virustotal.com/gui/file/47e312ecca7af098bb1c6c69188f54cf)|Win64 EXE||2025-11-19 07:28:13|art.exe|
+|[74e75830252220cbbe7e3adec4340d2d](https://www.virustotal.com/gui/file/74e75830252220cbbe7e3adec4340d2d)|Win64 EXE||2025-11-17 10:24:09|art.exe|
+|[08d8ab5dd375847ce909297e59e7df00](https://www.virustotal.com/gui/file/08d8ab5dd375847ce909297e59e7df00)|Win64 EXE||2025-11-09 14:39:19|cloud.exe|
+|[a39f74247367e0891f18b7662c8e69b5](https://www.virustotal.com/gui/file/a39f74247367e0891f18b7662c8e69b5)|DOC|Dridex|2025-11-03 16:38:50|C:\Users\user\Desktop\Scheduled_Internet_Outages.doc (copy)|
+|[dd6af28d1a03193fc76001b04d5827cc](https://www.virustotal.com/gui/file/dd6af28d1a03193fc76001b04d5827cc)|DOC|Dridex|2025-11-03 10:49:15|localfile~|
+|[e5dd608292b6f421b0c108816d25fc5e](https://www.virustotal.com/gui/file/e5dd608292b6f421b0c108816d25fc5e)|Win64 EXE||2025-11-03 09:55:07|shitmalware|
+|[a9235540208fa6a25614c24a59e19199](https://www.virustotal.com/gui/file/a9235540208fa6a25614c24a59e19199)|DOC|Dridex|2025-11-03 09:54:26|7ea4b307e84c8b32c0220eca13155a4cf66617241f96b8af26ce2db8115e3d53.doc|
+|[6823041c478b983f2d9526aeeec9b046](https://www.virustotal.com/gui/file/6823041c478b983f2d9526aeeec9b046)|TXT||2025-10-30 22:27:09| |
+|[0287ba0ecc176ae63ea1d1e053654f32](https://www.virustotal.com/gui/file/0287ba0ecc176ae63ea1d1e053654f32)|DOC||2025-10-14 11:01:45| |
+|[aa75a0baebc93d4ca7498453ef64128a](https://www.virustotal.com/gui/file/aa75a0baebc93d4ca7498453ef64128a)|Win64 EXE||2025-09-16 13:14:57|miazaProduct|
+|[e7906e4dd22e651087a8bacce7a688dd](https://www.virustotal.com/gui/file/e7906e4dd22e651087a8bacce7a688dd)|TXT||2025-09-12 18:52:08| |
+|[3ab16bd1c339fd0727be650104b74dd1](https://www.virustotal.com/gui/file/3ab16bd1c339fd0727be650104b74dd1)|DOC|o97m|2025-08-21 17:14:25|Online Seminar.FM.gov.om.doc|
+|[78b778ba0bcd546337077a50b8f90532](https://www.virustotal.com/gui/file/78b778ba0bcd546337077a50b8f90532)|Win64 EXE|Blocker|2025-08-20 22:00:07|softwareUpdateRelease3|
+|[1a86ed697e24731b88e5e591c6ecfb91](https://www.virustotal.com/gui/file/1a86ed697e24731b88e5e591c6ecfb91)|Win64 EXE|Blocker|2025-08-20 10:03:52|softwareUpdateRelease3|
+|[a408e056425307096dbf3e8b50a0b673](https://www.virustotal.com/gui/file/a408e056425307096dbf3e8b50a0b673)|Win64 EXE|Blocker|2025-08-20 01:16:36|softwareUpdateRelease3|
+|[7e73ca410dc6480c77a9236c0733c0a1](https://www.virustotal.com/gui/file/7e73ca410dc6480c77a9236c0733c0a1)|Win64 EXE|Blocker|2025-08-20 01:16:32|softwareUpdateRelease3|
+|[e73ba93d008affdc4cce0cb4e18ae5c6](https://www.virustotal.com/gui/file/e73ba93d008affdc4cce0cb4e18ae5c6)|DOC|o97m|2025-08-19 11:16:48|DPR for dredging in FreeSpan_16082025.2.doc|
+|[1de19958e7c2ef14addfb35b43a594ec](https://www.virustotal.com/gui/file/1de19958e7c2ef14addfb35b43a594ec)|DOC|o97m|2025-08-19 10:17:50|Online Seminar.MFA.gov.ct.tr (2).doc|
+|[bed77abc7e12230439c0b53dd68ffaf7](https://www.virustotal.com/gui/file/bed77abc7e12230439c0b53dd68ffaf7)|Win64 EXE|Tofsee|2025-08-17 14:30:47|/home/petik/ss/malware/2025-08-19_bed77abc7e12230439c0b53dd68ffaf7_black-basta_cobalt-strike_vidar|
+|[4c390cbf4581ea236778f9526af72b47](https://www.virustotal.com/gui/file/4c390cbf4581ea236778f9526af72b47)|DOCX||2025-08-16 06:47:35|2.docx|
+|[844d714c0bdab06d4d85e26202e654dc](https://www.virustotal.com/gui/file/844d714c0bdab06d4d85e26202e654dc)|Win64 EXE||2025-08-15 11:37:23|668dd5b6fb06fe30a98dd59dd802258b45394ccd7cd610f0aaab43d801bf1a1e.exe|
+|[a546d2363a4b94e361d0874b690c853b](https://www.virustotal.com/gui/file/a546d2363a4b94e361d0874b690c853b)|Win64 EXE||2025-08-15 08:21:07|C:\Windows\71csc2c.exe|
+|[7bfbc76c7eeb652d73b85c99ee83b339](https://www.virustotal.com/gui/file/7bfbc76c7eeb652d73b85c99ee83b339)|Win64 EXE||2025-08-11 15:25:05|%PUBLIC%\downloads\novaservice.txt|
+|[11ee5f269902e37ab15e8ae2c5d37412](https://www.virustotal.com/gui/file/11ee5f269902e37ab15e8ae2c5d37412)|Win64 EXE||2025-08-04 14:46:16|8fb52fa62541c16519520d305d5d4ec7ac3fe2e09156c1011a05ebc9dc05707e.exe|
+|[0befbb6a14b3cbae42303a27bd06cad1](https://www.virustotal.com/gui/file/0befbb6a14b3cbae42303a27bd06cad1)|Win32 EXE||2025-07-29 12:58:51|2fb21fa13c308228ae89c000cc1f9aa488cb010478ba8d15de372a0fbf37f1fb.exe|
+|[64e7e2d2e037d21e8564de52061a31c7](https://www.virustotal.com/gui/file/64e7e2d2e037d21e8564de52061a31c7)|Win64 DLL||2025-07-29 12:55:04|0c8071494bc155c96f2cee998200f63efffcb5a064c021de0925504271806229.exe|
+|[4dee09dcd5ab407ee9086445303e7cdf](https://www.virustotal.com/gui/file/4dee09dcd5ab407ee9086445303e7cdf)|Win64 EXE||2025-07-24 11:47:54|C:\Users\Public\Downloads\Mononoke.exe|
+|[78dbf26b5641309768ba8131f2c4ee28](https://www.virustotal.com/gui/file/78dbf26b5641309768ba8131f2c4ee28)|DOC|o97m|2025-06-26 15:10:32|C:\Windows\rhrut.exe|
+|[dd29118838755821c884a7b03f647610](https://www.virustotal.com/gui/file/dd29118838755821c884a7b03f647610)|Win64 EXE||2025-06-03 08:46:59|ow123msadmasj41.exe|
+|[23dda825f91be93f5de415886f17ad4a](https://www.virustotal.com/gui/file/23dda825f91be93f5de415886f17ad4a)|ZIP|EmoDldr|2025-05-27 17:31:21|F-144822.zip|
+|[0aa883cd659ef9957fded2516b70c341](https://www.virustotal.com/gui/file/0aa883cd659ef9957fded2516b70c341)|TXT||2025-05-27 15:54:26|cis.vbs|
+|[5325de5231458543349152f0ea1cc3df](https://www.virustotal.com/gui/file/5325de5231458543349152f0ea1cc3df)|TXT|EmoDldr|2025-05-27 15:45:04|F-144822.vbs|
+|[eef9fe0c9619b75b9553243fd19709e4](https://www.virustotal.com/gui/file/eef9fe0c9619b75b9553243fd19709e4)|DOC||2025-04-08 18:40:43| |
+|[38e20236b52ea7b5abed7168c0b1bd99](https://www.virustotal.com/gui/file/38e20236b52ea7b5abed7168c0b1bd99)|Win64 DLL||2025-03-09 15:32:32|wtsapi32.dll|
+|[e68435f3899d0f01810afff7a420429f](https://www.virustotal.com/gui/file/e68435f3899d0f01810afff7a420429f)|Win64 EXE||2025-01-14 16:36:24|steam (buildbot_steam-relclient-w32.build.valve.org_steam_rel_client_win32@steam-relclient-w32)|
+|[7ddc947ce8999c8a4a36ac170dcd7505](https://www.virustotal.com/gui/file/7ddc947ce8999c8a4a36ac170dcd7505)|TXT||2025-01-07 19:13:40|C:\Users\Nathalie\Downloads\CERT_LOCT_C3860_012025.vbs|
+|[c851e849c8442727eac69225203ee7f7](https://www.virustotal.com/gui/file/c851e849c8442727eac69225203ee7f7)|Win64 EXE||2024-12-29 14:38:21|D:\auto_black_abuse\resources\unzipped\20251219_151551_2025-12-05\6020ea571ee6e09a0500421823fd5292858bd763acc4089a56af414cfb0c82ae.exe|
+|[d3e259a8caa7e23e89453a387caa3a15](https://www.virustotal.com/gui/file/d3e259a8caa7e23e89453a387caa3a15)|Win64 EXE||2024-12-29 13:35:22|D:\auto_black_abuse\resources\unzipped\20251219_151551_2025-12-05\a2f8c96429914ff66662b432f9213a795856751290b5a510605212d5e6ee7638.exe|
+|[1593cf15a4641ff09aeb71c3f6f2f6b9](https://www.virustotal.com/gui/file/1593cf15a4641ff09aeb71c3f6f2f6b9)|Win64 EXE||2024-12-29 11:12:12|D:\auto_black_abuse\resources\unzipped\20251219_151551_2025-12-05\78ad7b62ff7e1e1411f1cb7e5fa343be3fe89a75a29e9b2848ba916df53ec5c6.exe|
+|[f359f20dbd4b1cb578d521052a1b0e9f](https://www.virustotal.com/gui/file/f359f20dbd4b1cb578d521052a1b0e9f)|TXT||2024-10-21 11:38:31|VIN_SELECTION_C3860_102024.vbs|
+|[2cddc7a31ea289e8c1e5469f094e975a](https://www.virustotal.com/gui/file/2cddc7a31ea289e8c1e5469f094e975a)|TXT||2024-05-29 19:44:13|ATTESTATION_LETPOLC3860_13891333.vbs|
+|[b00f1811ab800ece55abe1e054832509](https://www.virustotal.com/gui/file/b00f1811ab800ece55abe1e054832509)|TXT||2023-11-12 23:18:17|HaborRLXeGiIUpLBQFvibdRjzWHqSVeX3|

@@ -112,3 +112,4 @@
 |[44db2bf9ddd0692089eb8de0eda1f426](https://www.virustotal.com/gui/file/44db2bf9ddd0692089eb8de0eda1f426)|TXT||2011-04-11 05:47:56|C:\Users\ADMINI~1\AppData\Local\Temp\webshell-master\aspx\z1(1).txt|
 |[34882fb3b2aef7b21f25f49a346092dd](https://www.virustotal.com/gui/file/34882fb3b2aef7b21f25f49a346092dd)|TXT||2008-11-06 13:16:52|bodybg.png|
 |[bae7578011095f619c4793a9e73f2497](https://www.virustotal.com/gui/file/bae7578011095f619c4793a9e73f2497)|TXT||2021-01-28 08:25:21|404.aspx|
+|[70a9b537b9b7e1b410576d798e6c5043](https://www.virustotal.com/gui/file/70a9b537b9b7e1b410576d798e6c5043)|Win32 EXE||2025-07-23 13:01:14|webInfo.exe|

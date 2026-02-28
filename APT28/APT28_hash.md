@@ -764,3 +764,35 @@
 |[5d938b4316421a2caf7e2e0121b36459](https://www.virustotal.com/gui/file/5d938b4316421a2caf7e2e0121b36459)|Win64 DLL||2024-05-15 08:18:28|tcpiphlpsvc.dll|
 |[4ac9b82140e75f0ec9acd20e4ce20640](https://www.virustotal.com/gui/file/4ac9b82140e75f0ec9acd20e4ce20640)|RAR|Stuxnet|2020-08-27 07:01:25|MalwareSamples_DontRunThese.rar|
 |[55d26438542a1f5e27d8f1e5e2e4af6d](https://www.virustotal.com/gui/file/55d26438542a1f5e27d8f1e5e2e4af6d)|Win32 EXE||2020-06-16 10:48:31|hhh|
+|[92bea8c9df7597dbb3d921de9c9a4be4](https://www.virustotal.com/gui/file/92bea8c9df7597dbb3d921de9c9a4be4)|TXT||2025-12-13 14:49:20|C:\Users\user\AppData\Local\Temp\fcgoz5cw.1qx\bmpxjphdzwommblflx.bat|
+|[5ce8ad85605829b9315ad78f09a7b432](https://www.virustotal.com/gui/file/5ce8ad85605829b9315ad78f09a7b432)|Win64 DLL||2025-12-13 14:44:37|C:\Users\user\AppData\Local\Temp\fcgoz5cw.1qx\WindowsCodecs.dll|
+|[e27afbf2d8336712eefd663256b83ef1](https://www.virustotal.com/gui/file/e27afbf2d8336712eefd663256b83ef1)|ZIP||2025-12-13 14:44:14|payload_1.zip|
+|[b4ea589127de86b61f610db613678d2e](https://www.virustotal.com/gui/file/b4ea589127de86b61f610db613678d2e)|TXT||2025-12-09 13:50:29|C:\Users\user\AppData\Local\Temp\opfpu23m.qml\hzjtajjklr.bat|
+|[654fe2a0e7b05be9f20a3cabf4049f4a](https://www.virustotal.com/gui/file/654fe2a0e7b05be9f20a3cabf4049f4a)|Win64 DLL||2025-12-09 13:43:46|D:\auto_black_abuse\resources\unzipped\20251219_163451_2025-12-12\598a8b918d0d2908a756475aee1e9ffaa57b110d8519014a075668b8b1182990.exe|
+|[92d32c18983c212a7b93c2f1388361b8](https://www.virustotal.com/gui/file/92d32c18983c212a7b93c2f1388361b8)|ZIP||2025-12-09 13:43:19|payload_1.zip|
+|[2cd2bd837e2a2554c9c34a1564388e0b](https://www.virustotal.com/gui/file/2cd2bd837e2a2554c9c34a1564388e0b)|Win64 DLL||2025-08-07 14:43:11|/tmp/cache/extracted_files/13b5fa74ad987be4baaf2bd4f6377c01c6b73a03.bin|
+|[81159738f7ffb50d5bc3c75e5e0ac546](https://www.virustotal.com/gui/file/81159738f7ffb50d5bc3c75e5e0ac546)|XLS|o97m|2025-08-07 14:35:14|ce2c475461d57f222a6aa22f49420f804a43c2eb29abf8553457a7d30f7cb024.xls|
+|[2338f420d66ef191c5a419353da2c12b](https://www.virustotal.com/gui/file/2338f420d66ef191c5a419353da2c12b)|Win64 DLL||2025-06-19 12:30:36|payload_1.dll|
+|[8169a4e2e826d82b57cc98bc71ea6d7e](https://www.virustotal.com/gui/file/8169a4e2e826d82b57cc98bc71ea6d7e)|Win64 DLL||2025-06-19 12:29:05|payload_1.dll|
+|[8cb79686725831395879227658c0dd5f](https://www.virustotal.com/gui/file/8cb79686725831395879227658c0dd5f)|Win64 DLL||2025-06-19 12:28:55|payload_1.dll|
+|[0fbc2bf2f66fc72c521a9b8561bab1da](https://www.virustotal.com/gui/file/0fbc2bf2f66fc72c521a9b8561bab1da)|DOC||2025-04-15 13:13:42| |
+|[8b654832fbcf233f33e3cddef20a473a](https://www.virustotal.com/gui/file/8b654832fbcf233f33e3cddef20a473a)|PDF||2025-04-12 19:13:08|/scratch/zoo/2025/04/12/8b654832fbcf233f33e3cddef20a473a|
+|[ed64dba976760b2acc3b964a87c13585](https://www.virustotal.com/gui/file/ed64dba976760b2acc3b964a87c13585)|PDF||2025-04-11 07:25:16|report.pdf|
+|[59e43ed8c37082f899489caf9b0f2baf](https://www.virustotal.com/gui/file/59e43ed8c37082f899489caf9b0f2baf)|PDF||2025-04-09 06:21:55|report.pdf|
+|[68540704526d76c9f41bf21ac80c1fe5](https://www.virustotal.com/gui/file/68540704526d76c9f41bf21ac80c1fe5)|PDF||2025-04-07 09:05:09|report.pdf|
+|[c06dbda929267774aac60b9a0fcc7d25](https://www.virustotal.com/gui/file/c06dbda929267774aac60b9a0fcc7d25)|PDF||2025-04-02 06:35:53|report.pdf|
+|[1498f1df4ca0e9cf23babe00cf34ed3d](https://www.virustotal.com/gui/file/1498f1df4ca0e9cf23babe00cf34ed3d)|DOC||2025-04-01 08:48:00|a610e249e3987103ebdb66ecf8198903afca93b1dcaf077fdecf80f371e9842d.doc|
+|[f21b63ddd7d2a773eb21a065015cdd01](https://www.virustotal.com/gui/file/f21b63ddd7d2a773eb21a065015cdd01)|DOC||2025-04-01 08:05:28|lorem.doc|
+|[56c538e7c67cd7a80f2d4d77c97563b5](https://www.virustotal.com/gui/file/56c538e7c67cd7a80f2d4d77c97563b5)|PDF||2025-03-07 06:58:30|report.pdf|
+|[c5647f3e9956f2bffb19c44c06b48049](https://www.virustotal.com/gui/file/c5647f3e9956f2bffb19c44c06b48049)|PDF||2025-02-26 07:46:20|C:\Windows\jm032yfb.exe|
+|[3d434157d91afd59e26db91483e7a56d](https://www.virustotal.com/gui/file/3d434157d91afd59e26db91483e7a56d)|PDF||2025-02-10 12:29:19|detail.pdf|
+|[7de7febec6bed06c49efb4e2c3dd23e1](https://www.virustotal.com/gui/file/7de7febec6bed06c49efb4e2c3dd23e1)|DOC||2024-12-06 12:15:57|C:\Users\user\Desktop\attachment.doc (copy)|
+|[66007a1ca6d07ebb4ed85bf82e79719d](https://www.virustotal.com/gui/file/66007a1ca6d07ebb4ed85bf82e79719d)|DOC||2024-12-06 12:10:36| |
+|[bbfb92161cb71825a16e49e2aa4d2750](https://www.virustotal.com/gui/file/bbfb92161cb71825a16e49e2aa4d2750)|DOC|o97m|2024-10-30 16:15:19|zrazok-raport-matdopomoga-forma-dlya-zapovnennya-v3.doc|
+|[b13e7cdc760d52c463152792991f4533](https://www.virustotal.com/gui/file/b13e7cdc760d52c463152792991f4533)|PDF||2024-09-27 06:12:27|detail.pdf|
+|[030f9f4956a6a46f498ccbcd918d31e4](https://www.virustotal.com/gui/file/030f9f4956a6a46f498ccbcd918d31e4)|PDF||2024-09-23 12:06:43|detail.pdf|
+|[8a71a8ff2c7fc5770624a0adecb72921](https://www.virustotal.com/gui/file/8a71a8ff2c7fc5770624a0adecb72921)|PDF||2024-09-20 06:45:50|detail.pdf|
+|[b9918e230c9b3ba96cbdf9fb9ab17331](https://www.virustotal.com/gui/file/b9918e230c9b3ba96cbdf9fb9ab17331)|PDF||2024-09-03 06:20:49|detail.pdf|
+|[68053622c5cb645676c534fea7c4642a](https://www.virustotal.com/gui/file/68053622c5cb645676c534fea7c4642a)|PDF||2024-08-30 17:37:30|704b0a4f2f2195d22340471b9bdb06244047f7042728dd7f6aa6e3c5e30c9bc1.pdf|
+|[f6921507f85e33f7ddc279a5028af4ba](https://www.virustotal.com/gui/file/f6921507f85e33f7ddc279a5028af4ba)|PDF||2024-08-22 07:30:38|report.pdf|
+|[efb5ae05ae40efa1c3d15395023a6968](https://www.virustotal.com/gui/file/efb5ae05ae40efa1c3d15395023a6968)|PDF||2023-12-13 13:25:56|report.pdf|

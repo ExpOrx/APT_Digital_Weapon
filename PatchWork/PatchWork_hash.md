@@ -1240,3 +1240,34 @@
 |[3e8aff5697a513a749869744ad0ce135](https://www.virustotal.com/gui/file/3e8aff5697a513a749869744ad0ce135)|LNK||2025-04-04 10:38:16|ISPR Advisory March 2025.pdf.lnk|
 |[a864909e3ef648097ca3944b62068daf](https://www.virustotal.com/gui/file/a864909e3ef648097ca3944b62068daf)|Win32 EXE||2025-03-26 06:01:08|ggfbbbvb_54132|
 |[7abbff5071286cf3be077bd0304e5de3](https://www.virustotal.com/gui/file/7abbff5071286cf3be077bd0304e5de3)|Win32 EXE|Doina|2018-08-16 11:23:12|C:\Windows\jz638h6.exe|
+|[22ada6895eb92ead2f44fd7b6038a264](https://www.virustotal.com/gui/file/22ada6895eb92ead2f44fd7b6038a264)|Win32 EXE|Doina|2025-12-09 07:47:25|%APPDATA%\wincom\winspec.exe|
+|[c9d4a3e3ea72ae15f2d7c186a989b4f9](https://www.virustotal.com/gui/file/c9d4a3e3ea72ae15f2d7c186a989b4f9)|Win32 EXE||2025-12-09 07:47:24|C:\Windows\ta389e5.exe|
+|[f4011b32c1cedc9f260d696aacb5d07a](https://www.virustotal.com/gui/file/f4011b32c1cedc9f260d696aacb5d07a)|Win32 EXE||2025-12-05 13:35:42|%APPDATA%\wincom\kerboros.exe|
+|[e00af7302f0c10e62e10e6c9902918da](https://www.virustotal.com/gui/file/e00af7302f0c10e62e10e6c9902918da)|Win32 EXE||2025-12-04 12:17:28|C:\Users\user\AppData\Roaming\wincom\kerboros.exe|
+|[8b546949ed2caf328c5c03a178a4c1c0](https://www.virustotal.com/gui/file/8b546949ed2caf328c5c03a178a4c1c0)|Win64 EXE||2025-11-24 11:56:02|C:\Windows\z91yb.exe|
+|[d978d61b734548d1d7563c10ea6231d2](https://www.virustotal.com/gui/file/d978d61b734548d1d7563c10ea6231d2)|LNK|miner|2025-11-24 11:47:43|89565254.pdf.lnk|
+|[64f784818227a2826f68fc4cf9b95417](https://www.virustotal.com/gui/file/64f784818227a2826f68fc4cf9b95417)|Win32 EXE||2025-11-22 22:52:49|%APPDATA%\compser\msdefender.exe|
+|[838e4d85346001dd04e11359b04c7c24](https://www.virustotal.com/gui/file/838e4d85346001dd04e11359b04c7c24)|Win32 EXE||2025-11-21 12:42:03|C:\Windows\06icl5iv8.exe|
+|[e4a7a85feff6364772cf1d12d8153a69](https://www.virustotal.com/gui/file/e4a7a85feff6364772cf1d12d8153a69)|Win32 EXE|Zbot|2025-11-18 13:29:49|D:\auto_black_abuse\resources\unzipped\20251217_114253_2025-12-03\a943b5b03b31604830766f41187f65dff2f18d9f7dcdb4241b375a5d95aaa043.exe|
+|[c3c277cca23f3753721435da80cad1ea](https://www.virustotal.com/gui/file/c3c277cca23f3753721435da80cad1ea)|Win32 EXE|Stealer|2025-11-14 08:19:34|List of officials nominated for rewards 2025-2026.exe|
+|[e0ac399cff3069104623cc38395bd946](https://www.virustotal.com/gui/file/e0ac399cff3069104623cc38395bd946)|ZIP|Stealer|2025-11-14 08:18:04|List of officials nominated for rewards 2025-2026.zip|
+|[d90446141e1b8defd0d0bedded9b9e0a](https://www.virustotal.com/gui/file/d90446141e1b8defd0d0bedded9b9e0a)|Win32 DLL||2025-11-10 17:39:29|libvlc.dll|
+|[57469345c0832415c84abfb97e41f0ed](https://www.virustotal.com/gui/file/57469345c0832415c84abfb97e41f0ed)|7ZIP||2025-11-07 18:43:49|CC Development Document.7z|
+|[df626ce2ad3d3dea415984a9d3839373](https://www.virustotal.com/gui/file/df626ce2ad3d3dea415984a9d3839373)|Win32 EXE||2025-11-03 10:04:05|JuDNEWMARKAZDETAILS.malz|
+|[0fe90212062957a529cba3938613c4da](https://www.virustotal.com/gui/file/0fe90212062957a529cba3938613c4da)|Win32 EXE||2025-11-03 10:03:36|C:\Users\user\AppData\Roaming\wincom\winspec.exe|
+|[a551eb0cd015ac4e25605c44e9ccc0a0](https://www.virustotal.com/gui/file/a551eb0cd015ac4e25605c44e9ccc0a0)|ZIP||2025-11-03 10:03:14|JuD-New-Markaz.zip|
+|[f78fd7e4d92743ef6026de98291e8dee](https://www.virustotal.com/gui/file/f78fd7e4d92743ef6026de98291e8dee)|Win32 EXE|Amadey|2025-11-03 10:03:03|Annexure.exe|
+|[1c335be51fc637b50d41533f3bef2251](https://www.virustotal.com/gui/file/1c335be51fc637b50d41533f3bef2251)|ZIP|Amadey|2025-11-03 10:02:11|dbe909b6c6c03b4000d96de1f4b1bdd10eef8ef34876a648a00cd5ee7117bd31.bin.sample|
+|[0d364200e744834c2d74659ffbcf802a](https://www.virustotal.com/gui/file/0d364200e744834c2d74659ffbcf802a)|XML||2025-10-15 08:11:13|9f5b34ee5a5cd2eebc8923a961de8bc7b67c3048f7b6ebc1287fa8be613b9d83.msc_|
+|[e066b5a875d08507832fc7ed29a7aa30](https://www.virustotal.com/gui/file/e066b5a875d08507832fc7ed29a7aa30)|Win32 DLL|Zbot|2025-10-10 08:52:55|C:\Users\user\AppData\Local\Temp\gpy54zdh.m1n\wer.dll|
+|[076ab63979336e827abc96fcd4fbf534](https://www.virustotal.com/gui/file/076ab63979336e827abc96fcd4fbf534)|LNK||2025-10-10 08:46:28|TR2025N00684.pdf.lnk|
+|[d957804d82f68185382598bd10304a17](https://www.virustotal.com/gui/file/d957804d82f68185382598bd10304a17)|LNK||2025-09-22 17:50:30|CUAS.pdf.ln#|
+|[dfbdd34e0e463bb2266cab599396aa02](https://www.virustotal.com/gui/file/dfbdd34e0e463bb2266cab599396aa02)|Win32 DLL||2025-09-11 18:23:33|C:\Windows\88809y.exe|
+|[8c342a5519400df4044e2ed75ea5a936](https://www.virustotal.com/gui/file/8c342a5519400df4044e2ed75ea5a936)|LNK||2025-09-11 18:17:57|2f329a1171d2c6b1471604bf76157b6487c3e59d21bf4a0856e29dc4ba8753cb.lnk|
+|[9b141f47c2a0d8fff821e03509c2288e](https://www.virustotal.com/gui/file/9b141f47c2a0d8fff821e03509c2288e)|Win32 DLL||2025-08-20 06:54:34|C:\Windows\cxb5ia.exe|
+|[25258a5fcd73c54e96c3950a107e2447](https://www.virustotal.com/gui/file/25258a5fcd73c54e96c3950a107e2447)|Win32 EXE||2025-08-12 06:09:46|/home/petik/ss/malware/2025-08-13_25258a5fcd73c54e96c3950a107e2447_amadey_black-basta_cobalt-strike_elex_luca-stealer_lynx|
+|[efb1a568bf661599baa4af2be8867d43](https://www.virustotal.com/gui/file/efb1a568bf661599baa4af2be8867d43)|DOS EXE||2022-06-04 20:31:48|efb1a568bf661599baa4af2be8867d43.virus|
+|[c79d42fdceb25d1290278d469097aa9b](https://www.virustotal.com/gui/file/c79d42fdceb25d1290278d469097aa9b)|Win32 EXE|Ursu|2021-03-31 05:52:20|paddedMalware/FilteredMalwarePadded/VirusShare_ee8d2f4aa20d6c7778a5074bd01df2cf|
+|[1bba6eb824c123a239e8a9f0e7a15cee](https://www.virustotal.com/gui/file/1bba6eb824c123a239e8a9f0e7a15cee)|EPS|CVE-2015-2545|2019-06-19 05:05:40|20E9260F.eps|
+|[f7f8f528c919e4208224c3e4b5820428](https://www.virustotal.com/gui/file/f7f8f528c919e4208224c3e4b5820428)|Win32 EXE||2018-04-24 01:07:45| |
+|[5d40ae3bc3f55bddd5cd80d9674dead9](https://www.virustotal.com/gui/file/5d40ae3bc3f55bddd5cd80d9674dead9)|EPS|o97m|2018-03-29 08:02:10|word/media/image1.eps|

@@ -12,3 +12,11 @@
 |[95ef62d77e37e115e9308a00ac3084aa](https://www.virustotal.com/gui/file/95ef62d77e37e115e9308a00ac3084aa)|Win32 EXE||2023-12-22 21:20:11|95ef62d77e37e115e9308a00ac3084aa.virus|
 |[24420686b8d132cca5da1bed361b751f](https://www.virustotal.com/gui/file/24420686b8d132cca5da1bed361b751f)|Win64 EXE||2021-11-15 06:05:27|rl_649ee35ad29945e8dd6511192483dddfdfe516a1312de5e0bd17fdd0a258c27f|
 |[0656a00d419748e7d3d20a336fa7f8e5](https://www.virustotal.com/gui/file/0656a00d419748e7d3d20a336fa7f8e5)|Win64 EXE||2021-07-06 21:52:00|%TEMP%\run.exe|
+|[42de67521dd7124a33eb15f83e658821](https://www.virustotal.com/gui/file/42de67521dd7124a33eb15f83e658821)|Win32 EXE|Starter|2025-10-06 05:06:21| |
+|[303030c0b3ecacef2f8601eb668999eb](https://www.virustotal.com/gui/file/303030c0b3ecacef2f8601eb668999eb)|Win32 EXE|config|2025-09-03 11:04:37| |
+|[4e58fac4e19b9ef28f41e8211c1f54b6](https://www.virustotal.com/gui/file/4e58fac4e19b9ef28f41e8211c1f54b6)|TXT||2025-09-01 11:20:27|C:\Users\user\AppData\Roaming\Windows\bat.bat|
+|[7038bb2d5f0a7d5920df165ba5530ed2](https://www.virustotal.com/gui/file/7038bb2d5f0a7d5920df165ba5530ed2)|Win32 EXE|config|2025-09-01 11:12:34| |
+|[f964b10cd53967aecc1c511db4a81238](https://www.virustotal.com/gui/file/f964b10cd53967aecc1c511db4a81238)|Win32 EXE|config|2025-08-29 11:30:01| |
+|[0fcd0296caead9343fcdad3584f64a18](https://www.virustotal.com/gui/file/0fcd0296caead9343fcdad3584f64a18)|Win32 EXE|Stealer|2025-05-01 20:23:58|Web Browser Pass View|
+|[34c6dfa28c293b5f21a77f74d94de16b](https://www.virustotal.com/gui/file/34c6dfa28c293b5f21a77f74d94de16b)|Win32 EXE||2022-10-15 16:18:03|blat|
+|[0ceb38f7c3d464a8268f67559755b216](https://www.virustotal.com/gui/file/0ceb38f7c3d464a8268f67559755b216)|Win32 EXE|pswtool|2021-09-13 12:31:51|mlpv.exe|

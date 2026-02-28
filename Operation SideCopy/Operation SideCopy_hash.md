@@ -47,3 +47,22 @@
 |[b62833e49f55d11f0b958dc8803621db](https://www.virustotal.com/gui/file/b62833e49f55d11f0b958dc8803621db)|ZIP||2025-05-06 09:57:47|Blackout-Rehearsal-Plan.zip|
 |[356a0f50131eb175f1cca91a1476f3a4](https://www.virustotal.com/gui/file/356a0f50131eb175f1cca91a1476f3a4)|Win32 EXE||2025-04-26 03:40:26|wincplmb|
 |[06625204e65d868f778655be1bb52452](https://www.virustotal.com/gui/file/06625204e65d868f778655be1bb52452)|Win32 EXE|drat|2024-11-18 11:07:07|wincoremedialib|
+|[c12adca7c6ced468d8709f729e2708a1](https://www.virustotal.com/gui/file/c12adca7c6ced468d8709f729e2708a1)|TXT||2026-01-13 01:54:22|cir[1].hta|
+|[222f012bed5d59ac845fbedb6575b0f6](https://www.virustotal.com/gui/file/222f012bed5d59ac845fbedb6575b0f6)|LNK||2025-12-31 14:35:18|Threat Application/Threat Application.pdf.lnk|
+|[68fdd4392d92cc79f28ae98d096126c9](https://www.virustotal.com/gui/file/68fdd4392d92cc79f28ae98d096126c9)|ZIP||2025-12-31 14:34:32|Threat Application.zip|
+|[f74a1ca3202adf982da4235f4127b1f8](https://www.virustotal.com/gui/file/f74a1ca3202adf982da4235f4127b1f8)|Win64 DLL||2025-11-13 18:19:38|localfile~|
+|[99d3a1cb594bbd9c4f75c05a63d366ee](https://www.virustotal.com/gui/file/99d3a1cb594bbd9c4f75c05a63d366ee)|Win64 DLL||2025-11-12 15:29:46|C:\Windows\ggmfy6.exe|
+|[b0a7fc17589ab299ccd735488fca777e](https://www.virustotal.com/gui/file/b0a7fc17589ab299ccd735488fca777e)|Win64 EXE||2025-11-12 15:29:20|C:\Windows\ndfwyiq.exe|
+|[fbc66a01676a180d6196ec733d126fa8](https://www.virustotal.com/gui/file/fbc66a01676a180d6196ec733d126fa8)|FPX||2025-11-12 15:28:47|C:\Windows\Installer\MSID9BF.tmp|
+|[6034d37c3bfb202659fa15f06e53d60e](https://www.virustotal.com/gui/file/6034d37c3bfb202659fa15f06e53d60e)|LNK|mole|2025-11-12 15:22:38|NCERT-Whatsapp-Advisory/NCERT-Whatsapp-Advisory.pdf.lnk|
+|[e05c2204aa01e4f05313095d41b6f99f](https://www.virustotal.com/gui/file/e05c2204aa01e4f05313095d41b6f99f)|TXT||2025-10-22 09:40:09|coa.hta|
+|[6a4ebcd1af69e64a2d14f5c12566603b](https://www.virustotal.com/gui/file/6a4ebcd1af69e64a2d14f5c12566603b)|Win32 EXE|Stealer|2025-10-22 08:29:55|msvideolibApp1|
+|[b7c189367ecaab4fcc5a53eddbbc5a38](https://www.virustotal.com/gui/file/b7c189367ecaab4fcc5a53eddbbc5a38)|LNK||2025-10-22 08:26:29|COA_Train_Cancelled/COA_Train_Cancelled.docx.lnk|
+|[7468206d321b9a1be58510b6c910739c](https://www.virustotal.com/gui/file/7468206d321b9a1be58510b6c910739c)|ZIP||2025-10-22 08:25:56|COA_Train_Cancelled.zip|
+|[f1f623f58c9af236645a6b9f1c0c6359](https://www.virustotal.com/gui/file/f1f623f58c9af236645a6b9f1c0c6359)|TXT||2025-10-11 05:37:01|mail.hta|
+|[0f9ca1bcadf25cdd21d5925e9a90bef5](https://www.virustotal.com/gui/file/0f9ca1bcadf25cdd21d5925e9a90bef5)|TXT|Starter|2025-10-10 13:45:43|flowB.bat|
+|[9f82018ae0d5bc007dc5f64bad5b3372](https://www.virustotal.com/gui/file/9f82018ae0d5bc007dc5f64bad5b3372)|LNK||2025-10-10 13:41:35|APPLICATION FOR UPDATION OF NIC E-MAIL ID/APPLICATION FOR UPDATION OF NIC E-MAIL ID/APPLICATION FOR UPDATION OF NIC E-MAIL ID.pdf.lnk|
+|[489c264816e6c1d9b0dd4e8d70b7283b](https://www.virustotal.com/gui/file/489c264816e6c1d9b0dd4e8d70b7283b)|ZIP||2025-10-10 13:41:19|C:\Windows\pzi6vkcc.exe|
+|[be263bee537ab60901fa1436c91ce32e](https://www.virustotal.com/gui/file/be263bee537ab60901fa1436c91ce32e)|ZIP||2025-09-26 04:31:02|20250731-Deferment-of-implementation-of-Rule-9-of-LPS-Rule_434_785.zip|
+|[737cbe4cef2f2a178b9f91d2104f7dd3](https://www.virustotal.com/gui/file/737cbe4cef2f2a178b9f91d2104f7dd3)|ZIP||2025-09-25 10:32:35|20250731-Deferment-of-implementation-of-Rule-9-of-LPS-Rule_434_785.zip|
+|[8b48cabf89445f77344548e2dd76f8f8](https://www.virustotal.com/gui/file/8b48cabf89445f77344548e2dd76f8f8)|Win64 DLL||2025-09-03 17:22:02|DUI70.dll|

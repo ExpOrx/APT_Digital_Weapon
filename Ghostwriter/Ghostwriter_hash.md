@@ -40,3 +40,23 @@
 |[2a9e7045c3173241310424ea54303db7](https://www.virustotal.com/gui/file/2a9e7045c3173241310424ea54303db7)|XLS||2024-12-26 14:46:02|Донесення 5 реч - зразок.xls|
 |[28d29cfa53fd09badefc90527ff96eef](https://www.virustotal.com/gui/file/28d29cfa53fd09badefc90527ff96eef)|Win32 DLL||2024-12-16 22:24:19|Dwnldr.dll|
 |[9594b0aaff838029a8569ab3ef0d6b81](https://www.virustotal.com/gui/file/9594b0aaff838029a8569ab3ef0d6b81)|XLS|corona|2024-12-16 22:17:17|Zrazok.xls|
+|[38580294995d09e2ceacaf17fb03d609](https://www.virustotal.com/gui/file/38580294995d09e2ceacaf17fb03d609)|Win32 DLL||2025-07-30 16:24:41|Downloader.dll|
+|[e21f310442347eeed2210a75c1fa8e01](https://www.virustotal.com/gui/file/e21f310442347eeed2210a75c1fa8e01)|FPX||2025-07-30 08:24:36| |
+|[8c4f881c12957b8e581ef7e97a61f109](https://www.virustotal.com/gui/file/8c4f881c12957b8e581ef7e97a61f109)|RAR|corona|2025-07-30 08:23:52| |
+|[c64e06cf78edf852eb4cc5f9cc32e53c](https://www.virustotal.com/gui/file/c64e06cf78edf852eb4cc5f9cc32e53c)|Win32 DLL||2025-07-25 00:39:24|InfoUploader.dll|
+|[7c202bc012974783beacf526409f30d8](https://www.virustotal.com/gui/file/7c202bc012974783beacf526409f30d8)|FPX||2025-07-23 17:59:36|ПЛАН наповнення СФ_ЗМІНЕНИЙ.xls|
+|[e5830a1ee8791d16939d95183a360c99](https://www.virustotal.com/gui/file/e5830a1ee8791d16939d95183a360c99)|ZIP||2025-07-23 17:58:15|ПЛАН наповнення СФ_ЗМІНЕНИЙ.zip|
+|[c5f60a8ea7b1ea50962f14d5291a56f1](https://www.virustotal.com/gui/file/c5f60a8ea7b1ea50962f14d5291a56f1)|Win32 DLL||2025-06-12 08:58:25|InfoUploader.dll|
+|[65a7afe1af0fe1ef78af70267e01fff4](https://www.virustotal.com/gui/file/65a7afe1af0fe1ef78af70267e01fff4)|XLS||2025-06-12 08:54:11|роз'яснення.xls|
+|[eec3f9594965066db8aa5482e18618bd](https://www.virustotal.com/gui/file/eec3f9594965066db8aa5482e18618bd)|ZIP||2025-06-12 08:53:52| |
+|[60fc5ef9e8de4b663cf2c38e040f4ac0](https://www.virustotal.com/gui/file/60fc5ef9e8de4b663cf2c38e040f4ac0)|ZIP||2025-05-27 10:49:16|C:\Windows\zrtw0ymf2.exe|
+|[b63d0634d5497320ded7bea7a507b26e](https://www.virustotal.com/gui/file/b63d0634d5497320ded7bea7a507b26e)|Win32 DLL||2025-05-26 14:27:11|5fa19aa32776b6ab45a99a851746fbe189f7a668daf82f3965225c1a2f8b9d36.dll.sample|
+|[75af8b50c5939b4186108d0ac24a9cdc](https://www.virustotal.com/gui/file/75af8b50c5939b4186108d0ac24a9cdc)|XLS||2025-05-26 12:06:29|BHP.xls|
+|[47c1349ec74f11b5b17de51ede1c5ec7](https://www.virustotal.com/gui/file/47c1349ec74f11b5b17de51ede1c5ec7)|RAR||2025-05-26 12:06:09|Z-15a.rar|
+|[0767b2a1b9c596ec1865440e71b88f2d](https://www.virustotal.com/gui/file/0767b2a1b9c596ec1865440e71b88f2d)|Win32 DLL|Barys|2025-05-14 14:06:54|/tmp/cache/extracted_files/b3c78c76bb50602542ffd81eeb44ff9b33bc3274.bin|
+|[f7ca25396926c6b7c35f9c86d9f79f36](https://www.virustotal.com/gui/file/f7ca25396926c6b7c35f9c86d9f79f36)|Win32 DLL|Barys|2025-05-14 12:19:53|3b5980c758bd61abaa4422692620104a81eefbf151361a1d8afe8e89bf38579d.dll|
+|[1541d989d8908b55d7a08d3683579027](https://www.virustotal.com/gui/file/1541d989d8908b55d7a08d3683579027)|XLS||2025-05-14 12:08:21|STAN NA ELEWATORZE 2024.xls|
+|[1520993f3ad3bc307a40e7e056d364cb](https://www.virustotal.com/gui/file/1520993f3ad3bc307a40e7e056d364cb)|XLS||2025-04-23 12:05:42|pks_250422325349_01.xls|
+|[5389e211ec37519039d6aea8851a6254](https://www.virustotal.com/gui/file/5389e211ec37519039d6aea8851a6254)|ZIP||2025-04-23 12:05:29|pks_250422325349_01.zip|
+|[cfed77c806dffa7b48a17f9bc2b68bf4](https://www.virustotal.com/gui/file/cfed77c806dffa7b48a17f9bc2b68bf4)|XLS||2025-04-22 11:06:22|2_39ZO ZGWRP_program.xls|
+|[408d3148fbb750a9c0b0e3c4a6017d67](https://www.virustotal.com/gui/file/408d3148fbb750a9c0b0e3c4a6017d67)|ZIP||2025-04-22 11:05:19|ZGRW_nr_F00038524.zip|

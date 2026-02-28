@@ -35,3 +35,36 @@
 |[adef679c6aa6860aa89b775dceb6958b](https://www.virustotal.com/gui/file/adef679c6aa6860aa89b775dceb6958b)|ISO||2022-06-21 10:10:27|/hotfiles/manual_upload/suspected_iranian_threat_actor_unc1549_targets_israeli_and_middle_east_aerospace_and_defense_sectors_84a2e7b2-a8b1-4d49-8da1-b95772414feb/45_browsing7be9e546e54f54b26921dd57d426d2dc413ca1c7939ce00a5dc8efea257ef3XxX45Iso.iso|
 |[b40533e67e70b7ff7bb53d34a4b9170e](https://www.virustotal.com/gui/file/b40533e67e70b7ff7bb53d34a4b9170e)|Win64 DLL||2025-07-29 14:09:53|dxgi.dll|
 |[0c76c41dfe6989ba042e27755e2b68f7](https://www.virustotal.com/gui/file/0c76c41dfe6989ba042e27755e2b68f7)|ZIP||2025-07-29 14:09:37|_b405ae67c4ad4704c2ae33b2cf60f5b0ccdaff65c2ec44f5913664805d446c9b.zip|
+|[be556a0d7d75524acc5518482e43ed9a](https://www.virustotal.com/gui/file/be556a0d7d75524acc5518482e43ed9a)|Win64 DLL||2025-09-09 11:59:58|iviewers.dll|
+|[80c91b4343fe1260e348872e1b4c0713](https://www.virustotal.com/gui/file/80c91b4343fe1260e348872e1b4c0713)|Win64 DLL||2025-09-09 11:59:54|xmllite.dll|
+|[e5f0aea43ac33bf19a78c1a600f690d5](https://www.virustotal.com/gui/file/e5f0aea43ac33bf19a78c1a600f690d5)|ZIP||2025-09-09 11:59:07|Hiring Portal.zip|
+|[37197e5ed67443b01c8bc7f1249cba6a](https://www.virustotal.com/gui/file/37197e5ed67443b01c8bc7f1249cba6a)|Win64 DLL|SilverFox|2025-07-31 11:55:51|chrome_elf_dll|
+|[83100a20cae2649fd8d0400c96b267fe](https://www.virustotal.com/gui/file/83100a20cae2649fd8d0400c96b267fe)|Win64 DLL|SilverFox|2025-07-31 08:38:06|msedge_elf_dll|
+|[1baeff23794e47eb5c927c0303b7cd92](https://www.virustotal.com/gui/file/1baeff23794e47eb5c927c0303b7cd92)|Win64 DLL|SilverFox|2025-07-30 13:45:04|userenv.dll|
+|[b7e4b752adff07ac1b7b67a9be30b366](https://www.virustotal.com/gui/file/b7e4b752adff07ac1b7b67a9be30b366)|Win64 DLL||2025-07-30 13:45:03|xmllite.dll|
+|[53d0f4a75e8acbb6255bb44242e4843f](https://www.virustotal.com/gui/file/53d0f4a75e8acbb6255bb44242e4843f)|ZIP|SilverFox|2025-07-30 13:44:45|HR Portal.zip|
+|[14d8e865d3ca67b88c01f7e5d2b0862d](https://www.virustotal.com/gui/file/14d8e865d3ca67b88c01f7e5d2b0862d)|Win64 DLL||2025-07-21 10:48:37|userenv.dll|
+|[83b7ec5f0d5d6f11ba1284a3f705e98e](https://www.virustotal.com/gui/file/83b7ec5f0d5d6f11ba1284a3f705e98e)|Win64 DLL||2025-07-21 10:48:35|xmllite.dll|
+|[b19a097c237d594a85986881f69f127d](https://www.virustotal.com/gui/file/b19a097c237d594a85986881f69f127d)|ZIP||2025-07-21 10:47:34|airbus-survey-portal (1).zip|
+|[721ec011d75fea67ce9cb2796412651e](https://www.virustotal.com/gui/file/721ec011d75fea67ce9cb2796412651e)|Win64 DLL||2025-07-15 13:04:58|userenv.dll|
+|[097447c4b526f8a42e3144afe510ec20](https://www.virustotal.com/gui/file/097447c4b526f8a42e3144afe510ec20)|Win64 EXE|SilverFox|2025-07-08 09:20:24|Rheinmetall.survey.exe|
+|[cef266a5ea7ba57abc576cbeb5497c97](https://www.virustotal.com/gui/file/cef266a5ea7ba57abc576cbeb5497c97)|ZIP|SilverFox|2025-07-08 09:19:58|content.zip|
+|[a17b40b8133c1cc29c6146732086db69](https://www.virustotal.com/gui/file/a17b40b8133c1cc29c6146732086db69)|Win64 DLL|SilverFox|2025-06-29 15:43:47|cabinet.dll|
+|[20e80c787e129ec11de9accdd0ae4611](https://www.virustotal.com/gui/file/20e80c787e129ec11de9accdd0ae4611)|ZIP||2025-06-26 05:52:51|4260328c81e13a65a081be30958d94b945fea6f2a483d051c52537798b100c69.zip|
+|[1965a61d6f96b7bb221564ad52ba9719](https://www.virustotal.com/gui/file/1965a61d6f96b7bb221564ad52ba9719)|Win64 DLL||2025-06-12 15:07:18|Survey/unbcl.dll|
+|[e23637423599434a6de45b9080b7c561](https://www.virustotal.com/gui/file/e23637423599434a6de45b9080b7c561)|Win64 DLL||2025-06-12 09:42:11|Survey/Cabinet.dll|
+|[776677256087a5a0f543a6b6317cadf8](https://www.virustotal.com/gui/file/776677256087a5a0f543a6b6317cadf8)|Win64 DLL||2025-06-12 09:40:31|iumbase.dll|
+|[68abbdd75f82a22e3cf6200e13a664b3](https://www.virustotal.com/gui/file/68abbdd75f82a22e3cf6200e13a664b3)|Win64 DLL|SilverFox|2025-06-04 21:02:18|wm.exe|
+|[e16c8c285b1d537be5fe32e93247c282](https://www.virustotal.com/gui/file/e16c8c285b1d537be5fe32e93247c282)|Win64 EXE|SilverFox|2025-05-28 14:14:49|/home/petik/ss/malware/2025-06-29_e16c8c285b1d537be5fe32e93247c282_black-basta_cobalt-strike_vidar|
+|[223196939e1e1ba9256f515b0a510d7a](https://www.virustotal.com/gui/file/223196939e1e1ba9256f515b0a510d7a)|Win64 EXE||2025-05-14 08:18:21|IMG_0411.exe|
+|[7d216c57da81193a45c67c323d4049c3](https://www.virustotal.com/gui/file/7d216c57da81193a45c67c323d4049c3)|ZIP||2025-05-14 08:17:10|IMG_0411.zip|
+|[b319d8972115895f156807348fa9b45f](https://www.virustotal.com/gui/file/b319d8972115895f156807348fa9b45f)|Win64 DLL||2025-05-05 08:38:02|4-1/unbcl.dll|
+|[3a85381dd880c69f40b02859cd9fd473](https://www.virustotal.com/gui/file/3a85381dd880c69f40b02859cd9fd473)|Win64 DLL||2025-05-05 08:38:02|4-1/cabinet.dll|
+|[67dbe102978e4b612237ad3ee371702f](https://www.virustotal.com/gui/file/67dbe102978e4b612237ad3ee371702f)|ZIP||2025-05-05 08:36:37|Survey.zip|
+|[fac805be171884ddbd1396f6a59c90eb](https://www.virustotal.com/gui/file/fac805be171884ddbd1396f6a59c90eb)|Win64 DLL||2025-03-05 15:37:12|wts.dll|
+|[e8e0f2ade7294808d86b23a989b21be1](https://www.virustotal.com/gui/file/e8e0f2ade7294808d86b23a989b21be1)|Win64 DLL||2025-02-28 11:16:10|dwmapi.dll|
+|[2dab429e52096fd9eb031fc666965a5e](https://www.virustotal.com/gui/file/2dab429e52096fd9eb031fc666965a5e)|Win64 DLL||2024-10-04 07:13:12|LockHostingFramework.dll|
+|[c4b95c1ba3671c5172e7eb01178a7c39](https://www.virustotal.com/gui/file/c4b95c1ba3671c5172e7eb01178a7c39)|ZIP||2024-10-04 07:12:55| |
+|[b683628884cc1d00c234ea2f4b85d153](https://www.virustotal.com/gui/file/b683628884cc1d00c234ea2f4b85d153)|Win64 DLL|Expiro|2024-10-03 13:10:56|manifest.dll|
+|[be2bd408c615997c600871970573f023](https://www.virustotal.com/gui/file/be2bd408c615997c600871970573f023)|Win64 DLL||2024-09-05 11:33:24|sspicli.dll|
+|[96a9078d97a8b2a0cdc6632b48b8a649](https://www.virustotal.com/gui/file/96a9078d97a8b2a0cdc6632b48b8a649)|Win64 DLL|Doina|2024-07-11 21:33:40|sspicli.dll|

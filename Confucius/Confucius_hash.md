@@ -168,3 +168,8 @@
 |[386d4846a79aef927d317326f6f699a2](https://www.virustotal.com/gui/file/386d4846a79aef927d317326f6f699a2)|Win64 EXE||2020-03-30 08:34:50|certificate_generation.exe|
 |[cba58c1e1e2472ae89ab067d3e345c8f](https://www.virustotal.com/gui/file/cba58c1e1e2472ae89ab067d3e345c8f)|Win64 EXE||2019-05-22 08:56:39|Invoice_Generation.exe|
 |[3aa187a45810c87862ea405869850114](https://www.virustotal.com/gui/file/3aa187a45810c87862ea405869850114)|Win32 EXE|MSILPerseus|2022-06-02 09:27:23|crashreporter.exe|
+|[b8647d6526ca09acdd7c9b3965b2fc0a](https://www.virustotal.com/gui/file/b8647d6526ca09acdd7c9b3965b2fc0a)|LNK||2025-09-02 11:29:20|NLC.pdf.lnk|
+|[adadb16d5a6c4de2f729c8f40636c948](https://www.virustotal.com/gui/file/adadb16d5a6c4de2f729c8f40636c948)|LNK|AlienBot|2025-03-24 08:52:40|Invoice_Jan25.pdf.lnk|
+|[db938aae50efb4b5e9f3287603b1d8f4](https://www.virustotal.com/gui/file/db938aae50efb4b5e9f3287603b1d8f4)|Win32 DLL||2024-12-05 07:50:03|MR9S4CGRGBY.dll|
+|[a1077bffa9a36835444b8623bc6cc9d4](https://www.virustotal.com/gui/file/a1077bffa9a36835444b8623bc6cc9d4)|Win64 DLL||2024-12-05 07:40:07|8603b9fa8a6886861571fd8400d96a705eb6258821c6ebc679476d1b92dcd09e.exe|
+|[4549e8c33c3807f6368fc35b1554b88f](https://www.virustotal.com/gui/file/4549e8c33c3807f6368fc35b1554b88f)|PPSX|CVE-2017-8570|2024-12-05 05:17:14|c91917ff2cc3b843cf9f65e5798cd2e668a93e09802daa50e55a842ba9e505de.ppsx|

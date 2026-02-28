@@ -399,3 +399,10 @@
 |[db896eece25221a79210eecac8d05822](https://www.virustotal.com/gui/file/db896eece25221a79210eecac8d05822)|XLS|CVE-2017-0199|2024-01-16 08:50:40|NEW ITEMS LIST 2024.xls|
 |[123ba210c4bf018520399cb6e5dd48d8](https://www.virustotal.com/gui/file/123ba210c4bf018520399cb6e5dd48d8)|ZIP|Nemucod|2024-01-09 09:42:41|Dekont.gz|
 |[1a29023b7687a710e587c1daffdb9c9e](https://www.virustotal.com/gui/file/1a29023b7687a710e587c1daffdb9c9e)|unknown||2025-06-18 18:19:02|concrt141.dll|
+|[b1a5dc66f40a38d807ec8350ae89d1e4](https://www.virustotal.com/gui/file/b1a5dc66f40a38d807ec8350ae89d1e4)|TXT||2025-07-21 14:01:59|cargajecerrr.txt|
+|[fbadfff7b61d820e3632a2f464079e8c](https://www.virustotal.com/gui/file/fbadfff7b61d820e3632a2f464079e8c)|TXT|Quasar|2025-06-26 02:12:15|Fat327520.js|
+|[607f64b56bb3b94ee0009471f1fe9a3c](https://www.virustotal.com/gui/file/607f64b56bb3b94ee0009471f1fe9a3c)|TXT|Injecto|2025-06-23 23:41:14|venumentrada.txt|
+|[1077ea936033ee9e9bf444dafb55867c](https://www.virustotal.com/gui/file/1077ea936033ee9e9bf444dafb55867c)|TXT|Quasar|2025-06-23 23:34:44|cargajecerrr.txt|
+|[3ac65326f598ee9930031c17ce158d3d](https://www.virustotal.com/gui/file/3ac65326f598ee9930031c17ce158d3d)|Win32 DLL||2025-06-03 12:06:31|RunPE.dll|
+|[91454a68ca3a6ce7cb30c9264a88c0dc](https://www.virustotal.com/gui/file/91454a68ca3a6ce7cb30c9264a88c0dc)|Win32 EXE|Injecto|2025-04-14 22:29:21|Venombin.exe|
+|[d5f241dee73cffe51897c15f36b713cc](https://www.virustotal.com/gui/file/d5f241dee73cffe51897c15f36b713cc)|TXT||2025-02-21 19:55:01|%PUBLIC%\scripts\sgdohbzqwplkxcaothxdbglnqjlzcgbovglh_20251031_093925.ps1|

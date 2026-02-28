@@ -16,3 +16,4 @@
 |[3e20d2771e34aa2f468be6c5116ee763](https://www.virustotal.com/gui/file/3e20d2771e34aa2f468be6c5116ee763)|DOC||2025-01-14 19:09:37|222.doc|
 |[72dd2a0a3dd7d86882f952ee4cbbdc47](https://www.virustotal.com/gui/file/72dd2a0a3dd7d86882f952ee4cbbdc47)|DOC||2024-12-09 09:25:17| |
 |[a4c5ba083b544c748f2fc3d5539f71f9](https://www.virustotal.com/gui/file/a4c5ba083b544c748f2fc3d5539f71f9)|DOC||2024-12-09 06:56:01|C:\Users\user\Desktop\readme.doc (copy)|
+|[7727aae4a0840c7dc037634bed6a6d74](https://www.virustotal.com/gui/file/7727aae4a0840c7dc037634bed6a6d74)|Win32 DLL||2023-10-19 07:01:55|pytest.dll|

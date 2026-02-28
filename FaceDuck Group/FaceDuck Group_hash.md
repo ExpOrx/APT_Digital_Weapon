@@ -2485,3 +2485,20 @@
 |[84b1a223014d30705bcecd3a77067adb](https://www.virustotal.com/gui/file/84b1a223014d30705bcecd3a77067adb)|ZIP||2025-07-18 20:59:09|Client_Strategy_Lead_Application_Pack (907) 2.zip|
 |[176d89fce36b7097df1120ea0fdab24d](https://www.virustotal.com/gui/file/176d89fce36b7097df1120ea0fdab24d)|Win32 EXE|Gatak|2025-07-11 07:26:10|c:\users\keecfmwgj\appdata\roaming\marriottjobdescriptioninfoopenroles.exe|
 |[4fae2d71dbeae18f1f423028ab4b99bc](https://www.virustotal.com/gui/file/4fae2d71dbeae18f1f423028ab4b99bc)|RAR||2025-05-15 09:34:57|184022|
+|[cb404058958e9d02239d481f972fde2e](https://www.virustotal.com/gui/file/cb404058958e9d02239d481f972fde2e)|LNK||2025-10-01 14:43:52|C:\Users\user\AppData\Local\Temp\lfgnq0vp.oaq\Performance_Strategy_2025.lnk|
+|[cfbbf62852f479c7ef2f82fe418b83dd](https://www.virustotal.com/gui/file/cfbbf62852f479c7ef2f82fe418b83dd)|LNK||2025-09-18 07:43:03|Online_Interview_Appointment_Form.docx.lnk|
+|[40f37c4f5f9643f521316369d486d9fb](https://www.virustotal.com/gui/file/40f37c4f5f9643f521316369d486d9fb)|LNK||2025-09-09 21:43:35|Budget Plan - BYD 2025.lnk|
+|[6a8107cd9f3dda086c27abd0255b59fc](https://www.virustotal.com/gui/file/6a8107cd9f3dda086c27abd0255b59fc)|LNK||2025-09-09 06:54:39|Leadership Assessment.lnk|
+|[4bd6bb6791c7ec93f87d8d759f541aa6](https://www.virustotal.com/gui/file/4bd6bb6791c7ec93f87d8d759f541aa6)|LNK||2025-09-08 15:39:26|Performance_Strategy_2025.lnk|
+|[eb32e5f220eb5ac33e664139518577ec](https://www.virustotal.com/gui/file/eb32e5f220eb5ac33e664139518577ec)|LNK||2025-09-01 08:46:21|Meeting_Registration_Form-Flamingo Communications India.lnk|
+|[6a93ddcd0755a9946a3c444b7331fa5d](https://www.virustotal.com/gui/file/6a93ddcd0755a9946a3c444b7331fa5d)|LNK||2025-09-01 08:46:20|Job Requirements-Flamingo Communications India PVT. LTD..lnk|
+|[3a864c15fe7eadd370708f1bf421c820](https://www.virustotal.com/gui/file/3a864c15fe7eadd370708f1bf421c820)|LNK||2025-09-01 08:42:53|Meeting_Registration_Form-Flamingo Communications India.lnk|
+|[f1ee29fb0edeb984919b33753bef5815](https://www.virustotal.com/gui/file/f1ee29fb0edeb984919b33753bef5815)|LNK||2025-09-01 08:42:53|Job Requirements-Flamingo Communications India PVT. LTD..lnk|
+|[495c77825f168a0f6ddeb1591c6c5c52](https://www.virustotal.com/gui/file/495c77825f168a0f6ddeb1591c6c5c52)|ZIP|ROKRAT|2025-08-28 15:32:29|Detailed_Job_Description_2025(2) (23).zip|
+|[4d05ee64311d3d0268976bb1d5b00c3c](https://www.virustotal.com/gui/file/4d05ee64311d3d0268976bb1d5b00c3c)|LNK||2025-08-28 12:56:35|Capability Test.lnk|
+|[eab2b2475e115c528c2ffd26b7b1629a](https://www.virustotal.com/gui/file/eab2b2475e115c528c2ffd26b7b1629a)|LNK||2025-08-28 12:56:35|Job Description.lnk|
+|[058eeb1315b354ac63b4fa22951c3f4b](https://www.virustotal.com/gui/file/058eeb1315b354ac63b4fa22951c3f4b)|LNK||2025-08-28 09:15:09|Performance_Marketing_Budget_Plan.pdf.lnk|
+|[dedf4babbcd571e959ae09f3119e8f46](https://www.virustotal.com/gui/file/dedf4babbcd571e959ae09f3119e8f46)|LNK||2025-08-28 09:15:09|Online_Interview_Appointment_Form.docx.lnk|
+|[9ecd48e037b933eb6ca5b611517a59e9](https://www.virustotal.com/gui/file/9ecd48e037b933eb6ca5b611517a59e9)|ZIP|ROKRAT|2025-08-24 05:37:35|Priority_Access_Job_Pack_Senior_Marketing_Manager (874).zip|
+|[315839dbe7458667dc744e1963eaece9](https://www.virustotal.com/gui/file/315839dbe7458667dc744e1963eaece9)|ZIP|ROKRAT|2025-08-19 11:04:46|Job Description - Taaeen 2025 (548).zip|
+|[9c68f59695b4699679b2de4b6a5d3103](https://www.virustotal.com/gui/file/9c68f59695b4699679b2de4b6a5d3103)|ZIP||2025-08-17 05:47:58|GoogleAdvertisingExpert_Master Digital LLC (893).zip|

@@ -450,3 +450,8 @@
 |[7ed6127ce6693aa432c7fd234b547b6b](https://www.virustotal.com/gui/file/7ed6127ce6693aa432c7fd234b547b6b)|Win32 DLL||2024-05-07 09:49:59|pfnmwx5v.dll|
 |[7b994c097a9b3ac9db6d2bba63279825](https://www.virustotal.com/gui/file/7b994c097a9b3ac9db6d2bba63279825)|Win32 DLL||2024-05-07 09:49:58|0tpeqkf3.dll|
 |[82fc41b3e9ce722d4e6b21580e873d52](https://www.virustotal.com/gui/file/82fc41b3e9ce722d4e6b21580e873d52)|Win64 DLL|Turla|2020-11-03 09:22:05|sjdkfghkjds.bin|
+|[eb1e08731145cacf438889cc9cc6e46a](https://www.virustotal.com/gui/file/eb1e08731145cacf438889cc9cc6e46a)|Win64 DLL|Turla|2025-12-23 17:19:20|C:\Windows\qorkwx.exe|
+|[603901004129e737d1573b3a87a6a567](https://www.virustotal.com/gui/file/603901004129e737d1573b3a87a6a567)|Win64 DLL|Ursu|2025-12-23 03:17:13|C:\Windows\uqcgua74m.exe|
+|[9769354a8d84f6bc5cbf86f54fb4f0b4](https://www.virustotal.com/gui/file/9769354a8d84f6bc5cbf86f54fb4f0b4)|Win64 DLL||2025-10-08 11:55:31|hpbprndiLOC.dll|
+|[f09be6485e7986fa52959edcee0b9b87](https://www.virustotal.com/gui/file/f09be6485e7986fa52959edcee0b9b87)|TXT|Nemucod|2025-10-08 11:49:56|8RWRLT.vbs|
+|[8f6eb98a7b3f8b7a5830883f1814dac3](https://www.virustotal.com/gui/file/8f6eb98a7b3f8b7a5830883f1814dac3)|TXT|Turla|2025-06-05 06:14:02|3ecb09e659bcb500f9f40d022579a09acb11aec3a92c03e7d3fd2e56982d9eea.vbs|

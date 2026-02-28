@@ -20,3 +20,10 @@
 |[d3dd07f2454b9c81d9d16e65d6f24000](https://www.virustotal.com/gui/file/d3dd07f2454b9c81d9d16e65d6f24000)|Win32 EXE||2024-02-28 05:42:50|cmdline.exe|
 |[49d35332a1c6fefae1d31a581a66ab46](https://www.virustotal.com/gui/file/49d35332a1c6fefae1d31a581a66ab46)|Win32 EXE||2022-05-20 10:56:03|49d35332a1c6fefae1d31a581a66ab46.virus|
 |[391b3770ab60f9e535fbf3db70c89b04](https://www.virustotal.com/gui/file/391b3770ab60f9e535fbf3db70c89b04)|Win32 EXE||2013-06-26 08:24:05|vt-upload-o0OJb|
+|[b8c8dabf45f5c6cfa0dfcfdf76302118](https://www.virustotal.com/gui/file/b8c8dabf45f5c6cfa0dfcfdf76302118)|Win32 DLL||2022-09-09 00:04:39|%ALLUSERSPROFILE%\software\microsoft\windows\defender\autoupdate.dll|
+|[528d51c30782d187182a701116cd46f8](https://www.virustotal.com/gui/file/528d51c30782d187182a701116cd46f8)|Win64 DLL||2022-09-08 02:57:56|C:\ProgramData\Software\ESTsoft\Common\ESTCommon.dll|
+|[452620146aa124a7ab8a4c57d06efe65](https://www.virustotal.com/gui/file/452620146aa124a7ab8a4c57d06efe65)|Win32 DLL||2022-09-07 21:34:53|%ALLUSERSPROFILE%\software\microsoft\windows\defender\autoupdate.dll|
+|[77aa7b978cc22635a2cdef054308b0a6](https://www.virustotal.com/gui/file/77aa7b978cc22635a2cdef054308b0a6)|Win32 EXE|Doina|2022-07-28 05:21:26|3a0c617d17e7f819775e48f7edefe9af84a1446b_sig_replaced|
+|[27718ab7535a1a4a97bc9fa50bea1a63](https://www.virustotal.com/gui/file/27718ab7535a1a4a97bc9fa50bea1a63)|Win32 DLL||2022-07-26 06:26:28|%ALLUSERSPROFILE%\software\microsoft\windows\defender\autoupdate.dll|
+|[eca05db5b90a9d2ceba1222dd7b4ca87](https://www.virustotal.com/gui/file/eca05db5b90a9d2ceba1222dd7b4ca87)|Win32 DLL||2020-05-04 09:24:17|70970080.exe|
+|[cc4af99a393b5abb75b507e6074dc634](https://www.virustotal.com/gui/file/cc4af99a393b5abb75b507e6074dc634)|Win32 EXE||2018-12-26 19:56:41| |

@@ -206,3 +206,60 @@
 |[5d543219bf652fba170eb3013354700d](https://www.virustotal.com/gui/file/5d543219bf652fba170eb3013354700d)|Win32 EXE|Ursu|2019-05-29 05:38:32|ch1|
 |[a574fe6badc6409ef1c958f0c6c00077](https://www.virustotal.com/gui/file/a574fe6badc6409ef1c958f0c6c00077)|LNK||2019-05-28 03:23:35|PassportchangeProfession.pdf.lnk|
 |[7de6f828d08243fbf81a58023f842b7e](https://www.virustotal.com/gui/file/7de6f828d08243fbf81a58023f842b7e)|TXT|o97m|2018-12-13 08:19:18|SWIFT_154878_20181213_E3S1805049075282.doc|
+|[437b9fbd82500ee88b8b65e1722e99c5](https://www.virustotal.com/gui/file/437b9fbd82500ee88b8b65e1722e99c5)|Android||2025-12-26 02:24:59|Gen_Ashok_Sigdel_Live.apk|
+|[7f43abf844780064e323e9dcdb656ef8](https://www.virustotal.com/gui/file/7f43abf844780064e323e9dcdb656ef8)|DOCX|CVE-2017-0199|2025-12-18 05:35:05|C:\Windows\sqvelb94g.exe|
+|[537abad75fc343690119851610d9b54b](https://www.virustotal.com/gui/file/537abad75fc343690119851610d9b54b)|unknown||2025-12-06 09:15:15|1bin|
+|[7f397f286905114b94da3ec9052cb89d](https://www.virustotal.com/gui/file/7f397f286905114b94da3ec9052cb89d)|Win64 DLL||2025-12-01 05:32:59|MpGear|
+|[eb5bd49b6eef60ff85892ef7c8015b01](https://www.virustotal.com/gui/file/eb5bd49b6eef60ff85892ef7c8015b01)|ZIP||2025-12-01 05:32:29|Inspection.zip|
+|[7bca1d4a77ed1064a5dda8e50f8ee9ce](https://www.virustotal.com/gui/file/7bca1d4a77ed1064a5dda8e50f8ee9ce)|Win64 EXE|Stealer|2025-11-24 12:30:34|C:\$NTFSVolume\ntfs.exe|
+|[faa78461d2f37809b482af4527960ada](https://www.virustotal.com/gui/file/faa78461d2f37809b482af4527960ada)|DOCX|CVE-2017-0199|2025-11-20 17:16:31|C:\Windows\zgbbdwj.exe|
+|[d2829da8996be9a6e374dd6d94bbbf39](https://www.virustotal.com/gui/file/d2829da8996be9a6e374dd6d94bbbf39)|DOCX|o97m|2025-11-03 07:36:15|C:\Windows\t3wbv8g.exe|
+|[90311c17ed09780d9a359a3d16c90252](https://www.virustotal.com/gui/file/90311c17ed09780d9a359a3d16c90252)|Win64 DLL||2025-10-30 05:16:56|C:\Windows\5r6s1.exe|
+|[b53aba6a17a156a865c62d84d7e0e367](https://www.virustotal.com/gui/file/b53aba6a17a156a865c62d84d7e0e367)|XLS|EmoDldr|2025-10-30 05:12:15|CrowdStrike-Deployment-Status.xls|
+|[08714167a191cc5cf57a2cf11767c861](https://www.virustotal.com/gui/file/08714167a191cc5cf57a2cf11767c861)|DOCX|CVE-2017-0199|2025-10-29 09:41:08|C:\Windows\6agi1oo.exe|
+|[8c1af6bb55f4fdb952671846f5e10fe1](https://www.virustotal.com/gui/file/8c1af6bb55f4fdb952671846f5e10fe1)|DOCX|CVE-2017-0199|2025-10-24 13:01:46|99ed9f44a02a3549d60c58233f793622319ed4d08d2c1c8d6fd17fcb06afa8c0.doc|
+|[5b4eebe67765339f2a4ef7f0cc1d4f44](https://www.virustotal.com/gui/file/5b4eebe67765339f2a4ef7f0cc1d4f44)|Win64 EXE||2025-09-18 04:56:38|C:\Windows\e0fd3.exe|
+|[f9b828cc11a032dbb50bd0d85de007d1](https://www.virustotal.com/gui/file/f9b828cc11a032dbb50bd0d85de007d1)|Android||2025-09-11 07:04:44|localfile~|
+|[f535874179a64f1dc5e289be872026fc](https://www.virustotal.com/gui/file/f535874179a64f1dc5e289be872026fc)|Win64 EXE||2025-09-11 07:04:43|localfile~|
+|[e567f3877e3a206d31629409ed7e1910](https://www.virustotal.com/gui/file/e567f3877e3a206d31629409ed7e1910)|PDF||2025-09-10 14:23:41| |
+|[0aea06959cdd43e43f8b9d4625267398](https://www.virustotal.com/gui/file/0aea06959cdd43e43f8b9d4625267398)|PDF||2025-09-06 04:47:21|Attachment.pdf|
+|[5d999ab33a17a1cf6345474662ac170f](https://www.virustotal.com/gui/file/5d999ab33a17a1cf6345474662ac170f)|Win64 DLL||2025-09-03 18:42:49|dxgi.dll|
+|[e03feac971e97bcc9adb288565d77d58](https://www.virustotal.com/gui/file/e03feac971e97bcc9adb288565d77d58)|Win64 DLL||2025-09-03 18:37:39|dxgi.dll|
+|[04fa97cc54dc312412719dc157cb6677](https://www.virustotal.com/gui/file/04fa97cc54dc312412719dc157cb6677)|Win64 DLL||2025-09-02 17:57:36|C:\Windows\2vhlqzs.exe|
+|[04931dbd2fb823efcd143091a0a13f3b](https://www.virustotal.com/gui/file/04931dbd2fb823efcd143091a0a13f3b)|DOCX|CVE-2017-0199|2025-09-02 08:04:06|C:\Windows\3ajyhuk.exe|
+|[888b6313812112cae5c16d2e39a74d30](https://www.virustotal.com/gui/file/888b6313812112cae5c16d2e39a74d30)|PDF||2025-08-21 12:49:47|APPOINTMENT AS COORDINATOR TO THE PRIME MINISTER ON RIGHT SIZING.pdf|
+|[64a1bd59ca5a7bae2e69e8ad581de9ea](https://www.virustotal.com/gui/file/64a1bd59ca5a7bae2e69e8ad581de9ea)|DOCX|CVE-2017-0199|2025-08-21 09:16:19|C:\Windows\m14kx9wc7.exe|
+|[4551f21640eb726886b9805001fc30f6](https://www.virustotal.com/gui/file/4551f21640eb726886b9805001fc30f6)|DOCX|CVE-2017-0199|2025-08-18 06:51:22|Nomination of 5 Volunteers for IAVC 2026 Delegation.docx|
+|[b2dc34dd4aeafb2490712983cfca75ff](https://www.virustotal.com/gui/file/b2dc34dd4aeafb2490712983cfca75ff)|DOCX|CVE-2017-0199|2025-08-18 06:30:49|C:\Windows\oceliwm2.exe|
+|[99c545ba0a638a1ccd48e72372ea4e88](https://www.virustotal.com/gui/file/99c545ba0a638a1ccd48e72372ea4e88)|PDF||2025-07-25 17:15:49|compensatory_allowance_18072025.pdf|
+|[81dfbdb2056db1b33440e8d3d57511d5](https://www.virustotal.com/gui/file/81dfbdb2056db1b33440e8d3d57511d5)|PDF||2025-07-24 03:47:07|Annual Transfers of Officers in the Joint Services 2026.pdf|
+|[584c2fd5a4571db33eea174823f528ed](https://www.virustotal.com/gui/file/584c2fd5a4571db33eea174823f528ed)|PDF||2025-07-18 08:26:13|Promotion of officers in Grade I.pdf|
+|[d2b300dce04690bc227cd7e7f0bb07a9](https://www.virustotal.com/gui/file/d2b300dce04690bc227cd7e7f0bb07a9)|PDF||2025-07-17 06:01:01|Promotion of officers in Grade I.pdf|
+|[c1a5863ad6f31ecc1a9079927c69cbf2](https://www.virustotal.com/gui/file/c1a5863ad6f31ecc1a9079927c69cbf2)|ZIP||2025-07-17 05:35:59|Navy_Operational_Highlights_2025.zip|
+|[7a6723cea87ba7c098f022ad92abf865](https://www.virustotal.com/gui/file/7a6723cea87ba7c098f022ad92abf865)|Win64 EXE||2025-07-10 09:33:00|manarupdate.exe|
+|[799b9aa10e223b13577f9685c7808280](https://www.virustotal.com/gui/file/799b9aa10e223b13577f9685c7808280)|ZIP||2025-07-10 09:32:54|payload_1.zip|
+|[00603c207062e8f8576225067a7c5269](https://www.virustotal.com/gui/file/00603c207062e8f8576225067a7c5269)|TXT|AlienBot|2025-07-05 19:47:59|Training_Program_July_2024.pdf.url|
+|[b6fb42a8ff8ea93addf1c3a99abfe10a](https://www.virustotal.com/gui/file/b6fb42a8ff8ea93addf1c3a99abfe10a)|TXT|GuLoader|2025-07-04 07:02:58|ThisDocument.txt|
+|[e72ecfbb85aa750a9a94af5aa120614a](https://www.virustotal.com/gui/file/e72ecfbb85aa750a9a94af5aa120614a)|LNK||2025-07-02 09:45:30|Approved Signed Letter.lnk|
+|[eec8a825c98bf21de54c9a6119b064db](https://www.virustotal.com/gui/file/eec8a825c98bf21de54c9a6119b064db)|LNK||2025-07-02 09:44:53|Agenda AnexA.lnk|
+|[021f01d6af673334345c827866f22fff](https://www.virustotal.com/gui/file/021f01d6af673334345c827866f22fff)|PDF||2025-06-17 12:03:44|Induction of Weapons in CSD for Officers and JCOs.pdf|
+|[487da072770a77a568cb43b7a5f9cdcd](https://www.virustotal.com/gui/file/487da072770a77a568cb43b7a5f9cdcd)|Win64 EXE||2025-06-09 19:14:27|agent2.malz|
+|[80b8048876db5af4578a6ad9690e2bfa](https://www.virustotal.com/gui/file/80b8048876db5af4578a6ad9690e2bfa)|Win64 EXE||2025-06-09 19:14:01|localfile~|
+|[f3081479986fee38211b28247b185d65](https://www.virustotal.com/gui/file/f3081479986fee38211b28247b185d65)|Win64 DLL||2025-06-05 16:01:47|itrpay.dll|
+|[00c1ecc716c9206964b50529661fee7c](https://www.virustotal.com/gui/file/00c1ecc716c9206964b50529661fee7c)|Win64 DLL||2025-05-31 15:42:44|30dxgi.dll|
+|[04acac204ff3fbd18115982478adb7e5](https://www.virustotal.com/gui/file/04acac204ff3fbd18115982478adb7e5)|Win64 DLL|Havoc|2025-05-29 08:31:18|gwadardxgi.dll|
+|[e57860d18607667ca76a5046b97976c3](https://www.virustotal.com/gui/file/e57860d18607667ca76a5046b97976c3)|Win64 DLL||2025-05-29 08:30:26|lsdxgi.dll|
+|[13e321fed4903d136f19ad54b885650b](https://www.virustotal.com/gui/file/13e321fed4903d136f19ad54b885650b)|Win64 DLL|Havoc|2025-05-29 08:27:40|pdocumentsdxgi.dll|
+|[8cdaa9720d4b0ecf457102eaa6cd9814](https://www.virustotal.com/gui/file/8cdaa9720d4b0ecf457102eaa6cd9814)|LNK||2025-05-09 05:51:44|Advisory docx.docx.lnk|
+|[bdaae38dd135bb79de4beace3196123d](https://www.virustotal.com/gui/file/bdaae38dd135bb79de4beace3196123d)|LNK||2025-05-09 05:51:44|Advisory pdf.pdf.lnk|
+|[f2236cc00743583b425e2064197d66d6](https://www.virustotal.com/gui/file/f2236cc00743583b425e2064197d66d6)|LNK||2025-05-09 05:51:44|Password.docx.lnk|
+|[8ad6a9b6662d21953d98b3c3bd1020b0](https://www.virustotal.com/gui/file/8ad6a9b6662d21953d98b3c3bd1020b0)|ZIP||2025-05-09 05:51:27|Caution Against Propaganda and Misinformation Campaigns.zip|
+|[6fbc9a6f81f99e7c32529ab9835cbcf0](https://www.virustotal.com/gui/file/6fbc9a6f81f99e7c32529ab9835cbcf0)|PDF||2025-04-29 08:25:28|test_file|
+|[9e10fea142ce2fbc729f2bb30178ba79](https://www.virustotal.com/gui/file/9e10fea142ce2fbc729f2bb30178ba79)|PDF||2025-04-23 05:45:50|Integrated Hajj Medical Team 2025.pdf|
+|[88109f669191ff1809c662a6691dcfc7](https://www.virustotal.com/gui/file/88109f669191ff1809c662a6691dcfc7)|PDF||2025-04-22 08:53:39|Integrated Hajj Medical Team 2025.pdf|
+|[10569403ab4e8057d560e2474bed4c4c](https://www.virustotal.com/gui/file/10569403ab4e8057d560e2474bed4c4c)|ZIP||2025-04-10 15:20:13|GROUND_TACTICAL_COMMANDERS_.zip|
+|[243bfa3990d9b263e6ac1265735f79be](https://www.virustotal.com/gui/file/243bfa3990d9b263e6ac1265735f79be)|PDF||2025-03-17 18:09:16|Hajj training 2025.pdf|
+|[73a0170ea882989f6ffc3b4726a3ee56](https://www.virustotal.com/gui/file/73a0170ea882989f6ffc3b4726a3ee56)|LNK||2024-06-14 06:34:41|Dispatch of the APC HMLTV technical team.jpg.lnk|
+|[b8be125e6f496b0d5856fd4c2b59d778](https://www.virustotal.com/gui/file/b8be125e6f496b0d5856fd4c2b59d778)|LNK||2024-06-14 06:34:41|Appendix.jpg.lnk|
+|[e10c8df203a7a195a44ee629fcf0c756](https://www.virustotal.com/gui/file/e10c8df203a7a195a44ee629fcf0c756)|LNK||2024-06-14 06:34:41|Bio Data Form.jpg.lnk|
+|[bfc9a7d7a363cbda70b0e407b47effb8](https://www.virustotal.com/gui/file/bfc9a7d7a363cbda70b0e407b47effb8)|ZIP||2024-06-14 06:33:35|Dispatch of the APC HMLTV technical team.zip|

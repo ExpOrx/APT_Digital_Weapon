@@ -52,3 +52,4 @@
 |[5607a0e2bb87d6be828a5e2980116cfa](https://www.virustotal.com/gui/file/5607a0e2bb87d6be828a5e2980116cfa)|Win32 DLL||2023-04-06 01:30:51|DsNcDiag.dll|
 |[cd990165c9053b639f9fc966d79cf1ff](https://www.virustotal.com/gui/file/cd990165c9053b639f9fc966d79cf1ff)|Win64 DLL||2022-04-10 16:53:04| |
 |[08948d6c713deebff497c4cd89d02179](https://www.virustotal.com/gui/file/08948d6c713deebff497c4cd89d02179)|Win32 DLL|Shelma|2021-09-24 20:53:30|08948d6c713deebff497c4cd89d02179.virus|
+|[49584bd915dd322c3d84f2794bb3b950](https://www.virustotal.com/gui/file/49584bd915dd322c3d84f2794bb3b950)|Win32 EXE||2021-01-09 15:18:08|XstExport.exe|

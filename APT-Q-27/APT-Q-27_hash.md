@@ -135,3 +135,48 @@
 |[7845fd18d4f5a611985a177c42042a4b](https://www.virustotal.com/gui/file/7845fd18d4f5a611985a177c42042a4b)|Win64 EXE||2024-01-05 00:51:35|C:\Program Files\Kuaivpn\Kuaivpn\Kuai\tdata\emoji\kuaivpn.exe|
 |[fcadefabf90aa65ab171f089b757ca75](https://www.virustotal.com/gui/file/fcadefabf90aa65ab171f089b757ca75)|Win64 EXE||2024-01-03 07:20:30| |
 |[1fa2ac3263edb094019830e8630090d6](https://www.virustotal.com/gui/file/1fa2ac3263edb094019830e8630090d6)|Win32 EXE|PlugX|2024-03-06 17:36:22| |
+|[e1f74e71e8695423ceec9747894a0776](https://www.virustotal.com/gui/file/e1f74e71e8695423ceec9747894a0776)|Win64 EXE||2025-12-22 14:34:04|vally3dka.sys|
+|[d802949dc0c5e7d582e47a9412af46d6](https://www.virustotal.com/gui/file/d802949dc0c5e7d582e47a9412af46d6)|ZIP|krypyik|2025-12-22 08:38:59|D:\auto_black_abuse\resources\unzipped\20260102_080445_2025-12-30\5bec915e63771fbab61dbfc9b580656ac350c86d17588e6f897b942511d94e35.zip|
+|[f6cef55bb2ed2f1f8be688cf6609c1e8](https://www.virustotal.com/gui/file/f6cef55bb2ed2f1f8be688cf6609c1e8)|ZIP||2025-12-07 09:33:16|D:\auto_black_abuse\resources\unzipped\20260102_080445_2025-12-30\439d0584b98192279d62549b0fbd10bfa41e1bc2b5272d601ca9e27b976eda75.zip|
+|[aa4596e4bb9e9c187e93f4950acf4769](https://www.virustotal.com/gui/file/aa4596e4bb9e9c187e93f4950acf4769)|ZIP|Vigorf|2025-12-06 18:27:30|D:\auto_black_abuse\resources\unzipped\20260102_080445_2025-12-30\c06e06820b32b395e0d34787a865fc9abed80a72c4734a0561dde0bb4ec1901a.zip|
+|[c93ee3f63097c2c3f4f80ebb93f011b4](https://www.virustotal.com/gui/file/c93ee3f63097c2c3f4f80ebb93f011b4)|Win32 EXE||2025-12-06 15:59:34|photo20251206896m.exe|
+|[066564533becb4f9c7a8cac1ffbd832a](https://www.virustotal.com/gui/file/066564533becb4f9c7a8cac1ffbd832a)|Win32 EXE||2025-12-04 14:02:33|JavaUpdateService.exe|
+|[c7082bdd27233200550c3a6dcd4161e6](https://www.virustotal.com/gui/file/c7082bdd27233200550c3a6dcd4161e6)|Win32 DLL|Zbot|2025-11-30 22:06:22|b998616f30ec6ddf71968f951329279f0a9113f1714fd096bd5d08f3e1cc6d1b.dll|
+|[c09570d0dbf0abfe506cc4370defb396](https://www.virustotal.com/gui/file/c09570d0dbf0abfe506cc4370defb396)|unknown||2025-10-29 15:50:02|C:\Windows\vi8013.exe|
+|[00893b7c3e8c39d4663257ddec678aa9](https://www.virustotal.com/gui/file/00893b7c3e8c39d4663257ddec678aa9)|unknown|SilverFox|2025-10-29 15:43:58|%ALLUSERPROFILE%\roning\trustinstaller.bin|
+|[d378aa2d0853dd754f0729c463540d6b](https://www.virustotal.com/gui/file/d378aa2d0853dd754f0729c463540d6b)|unknown|SilverFox|2025-10-29 15:39:05|%ALLUSERPROFILE%\roning\enpug.bin|
+|[b10347281e6e8451a77b423f1c8286bb](https://www.virustotal.com/gui/file/b10347281e6e8451a77b423f1c8286bb)|unknown||2025-10-29 15:25:19|tp.png|
+|[8ad120e4f3e41849fefa229c9b7d3008](https://www.virustotal.com/gui/file/8ad120e4f3e41849fefa229c9b7d3008)|Win64 DLL|ShellLoader|2025-10-13 19:46:47|Snieoatwtregoable.dll|
+|[d17f86f27e9db5a5afde517b5173121e](https://www.virustotal.com/gui/file/d17f86f27e9db5a5afde517b5173121e)|Win32 EXE||2025-10-13 19:44:52|Snieoatwtregoable.exe|
+|[838f8f3d80f676272dd54c9811ee6ce2](https://www.virustotal.com/gui/file/838f8f3d80f676272dd54c9811ee6ce2)|FPX||2025-10-13 19:39:58|klklznuah.msi|
+|[96dcdb8bb7934abdb6cd87c33d17be87](https://www.virustotal.com/gui/file/96dcdb8bb7934abdb6cd87c33d17be87)|Win64 EXE||2025-10-10 17:24:55|%TEMP%\ollama.sys|
+|[5b92b51e585ad1f235855fd86dc77b85](https://www.virustotal.com/gui/file/5b92b51e585ad1f235855fd86dc77b85)|Win64 EXE|Zbot|2025-10-10 09:20:31|C:\Windows\6uf9i.exe|
+|[b60ec8e34b65166107c5b293f8be2a69](https://www.virustotal.com/gui/file/b60ec8e34b65166107c5b293f8be2a69)|Win32 EXE|Farfli|2025-09-20 20:30:09|sigSetu.exe|
+|[85ff73d6e5f5e878ea8600f144d0e0c1](https://www.virustotal.com/gui/file/85ff73d6e5f5e878ea8600f144d0e0c1)|RAR|Farfli|2025-09-13 13:47:10|/data/hunting/check/file_big/85ff73d6e5f5e878ea8600f144d0e0c1|
+|[f8c3fc89d7a33c90110e401acc799d05](https://www.virustotal.com/gui/file/f8c3fc89d7a33c90110e401acc799d05)|Win64 DLL||2025-09-11 18:24:34|1.dll|
+|[32012e7b805a694521448b77b7105856](https://www.virustotal.com/gui/file/32012e7b805a694521448b77b7105856)|ZIP||2025-09-11 01:34:29| |
+|[669347a1a6aa56f54870645588645837](https://www.virustotal.com/gui/file/669347a1a6aa56f54870645588645837)|ZIP|Android.Generic|2025-09-10 11:31:34| |
+|[d6a780152a3c51d7a77f374edf976818](https://www.virustotal.com/gui/file/d6a780152a3c51d7a77f374edf976818)|ZIP||2025-09-09 07:09:51|/data/hunting/check/file_big/d6a780152a3c51d7a77f374edf976818|
+|[f324b0de59a5ab525c9dffc79772adc2](https://www.virustotal.com/gui/file/f324b0de59a5ab525c9dffc79772adc2)|Win32 EXE|Android.Generic|2025-09-09 06:01:28|Wp_s_BG.exe|
+|[612e6bc0a5d9bb4f4fc64420a8c4fa54](https://www.virustotal.com/gui/file/612e6bc0a5d9bb4f4fc64420a8c4fa54)|Win64 DLL||2025-09-08 11:24:43|3de668243fb946221adc86a418a2710217d29083d96a1bb30c773dea516cbe94-dropped.bin|
+|[13a58546514ce574667873add8b35497](https://www.virustotal.com/gui/file/13a58546514ce574667873add8b35497)|Win32 EXE|Farfli|2025-09-08 08:08:41|C:\Windows\ogl89x9.exe|
+|[75a47864714d0504c29dfdcd7b2ffca9](https://www.virustotal.com/gui/file/75a47864714d0504c29dfdcd7b2ffca9)|Win64 DLL||2025-09-08 07:26:26|C:\Program Files (x86)\Pk29TahBlqN\uALvpE0V3q4EA\agYWyTEwyScCOI5\wem4C6.dll|
+|[bf8f5631a66e9cb325079d7869b50e27](https://www.virustotal.com/gui/file/bf8f5631a66e9cb325079d7869b50e27)|Win32 EXE||2025-09-07 22:20:56|Wininter.exe|
+|[002524509d2d066d1564553b156a3fd8](https://www.virustotal.com/gui/file/002524509d2d066d1564553b156a3fd8)|Win32 EXE|ShellLoader|2025-09-07 22:20:56|Windowsinter.exe|
+|[75cbccaa0ea92f853e14ee706480ae9f](https://www.virustotal.com/gui/file/75cbccaa0ea92f853e14ee706480ae9f)|Win64 DLL||2025-09-07 07:10:19|C:\Windows\ss4u4.exe|
+|[cff482e7bd22304366f5b4f73318195c](https://www.virustotal.com/gui/file/cff482e7bd22304366f5b4f73318195c)|Win64 DLL||2025-09-05 13:31:27|/tmp/cache/extracted_files/c1a5fdcc05ce09e6e5bb63e6deb6e62eafe6b01b.bin|
+|[f0ee786d0efdf10aa4d11f5a25b40d4b](https://www.virustotal.com/gui/file/f0ee786d0efdf10aa4d11f5a25b40d4b)|Win32 EXE||2025-09-05 13:25:10|C:\Program Files (x86)\SogouInput\F0EE786D0EFDF10AA4D11F5A25B40D4B|
+|[0c23f3973cde6af3b60f883127cf127f](https://www.virustotal.com/gui/file/0c23f3973cde6af3b60f883127cf127f)|Win64 DLL|ShellLoader|2025-08-29 08:16:25|%ProgramFiles%%ProgramFiles(x86)%\d08es48pram\7vnl6gll\8ivb2rp7vhu1fke\7f9ok5v6.dll|
+|[d920c1a909744e206405ec13539ee01c](https://www.virustotal.com/gui/file/d920c1a909744e206405ec13539ee01c)|Win64 DLL|SilverFox|2025-08-23 00:57:29|%ALLUSERPROFILE%\roning\goldendays.dll|
+|[873d17ebe571256663d63f186737d074](https://www.virustotal.com/gui/file/873d17ebe571256663d63f186737d074)|ZIP|ShellLoader|2025-08-14 02:12:01|Gq7cgbq2.zip|
+|[ede3968a25c5c4221e7e3b2dbe50bcef](https://www.virustotal.com/gui/file/ede3968a25c5c4221e7e3b2dbe50bcef)|Win64 EXE|Generickdz|2025-07-28 07:01:20|payload|
+|[f34f582db2992e6cbcf6b16e071d9b5a](https://www.virustotal.com/gui/file/f34f582db2992e6cbcf6b16e071d9b5a)|Win64 EXE||2025-07-28 06:23:28|Google Installer (x86)|
+|[fb8a2bb3921ce2038ccdb0e20a49cc51](https://www.virustotal.com/gui/file/fb8a2bb3921ce2038ccdb0e20a49cc51)|Win64 EXE|Farfli|2025-07-24 02:07:53|payload|
+|[800674589685be8acdcf43f2933ef1f3](https://www.virustotal.com/gui/file/800674589685be8acdcf43f2933ef1f3)|Win64 EXE|Farfli|2025-06-01 17:15:35|%ProgramFiles(x86)%\Windows NT\runtime.exe|
+|[4ae0288d0227c1793314393634da0e19](https://www.virustotal.com/gui/file/4ae0288d0227c1793314393634da0e19)|ZIP||2025-03-26 07:40:02|Fianlshell.zip|
+|[6d4192b88bc5605f17db689c6a9621cd](https://www.virustotal.com/gui/file/6d4192b88bc5605f17db689c6a9621cd)|Win32 EXE|hijack|2025-02-26 13:06:27|ShadowasR.exe|
+|[fa42ebb1071abc0e618c296ea2cf71a6](https://www.virustotal.com/gui/file/fa42ebb1071abc0e618c296ea2cf71a6)|TXT||2024-12-25 17:02:49|C:\Users\Public\Downloads\20251231122716\1.bat|
+|[3a7cb580bd340505f6dc5b4c829a3eca](https://www.virustotal.com/gui/file/3a7cb580bd340505f6dc5b4c829a3eca)|TXT||2024-12-25 17:02:48|C:\Users\Public\Downloads\20251231122716\fhq.bat|
+|[e9c0d5ba7c142e2938fc1ccf58ae4b20](https://www.virustotal.com/gui/file/e9c0d5ba7c142e2938fc1ccf58ae4b20)|Win32 EXE||2024-10-27 05:40:13|tsetup-x64.4.2.5.exe|
+|[09a3c3b9aa3c152ef494bf5da2acd20a](https://www.virustotal.com/gui/file/09a3c3b9aa3c152ef494bf5da2acd20a)|Win64 EXE|Dapato|2023-03-07 16:38:46|Sample.EXE|
+|[9b005e535a0846b4e558246ca0fd781c](https://www.virustotal.com/gui/file/9b005e535a0846b4e558246ca0fd781c)|Win32 EXE|Xred|2022-01-06 23:48:03|C:\ProgramData\Synaptics\Synaptics.exe|

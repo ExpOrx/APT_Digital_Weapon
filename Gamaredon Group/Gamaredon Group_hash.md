@@ -606,3 +606,62 @@
 |[9bde92d297d4e39fc88986346bf6ceb3](https://www.virustotal.com/gui/file/9bde92d297d4e39fc88986346bf6ceb3)|LNK|Starter|2024-11-15 15:49:04|signal-2024-10-09-152042_002.jpg.lnk|
 |[b8a1d2e3fb32be2559a3808cf50c6c7b](https://www.virustotal.com/gui/file/b8a1d2e3fb32be2559a3808cf50c6c7b)|LNK|Starter|2024-11-15 15:49:04|raport_rozporyadzhenci.docx.lnk|
 |[02c6b1f9907a1d11e707862ce94039e1](https://www.virustotal.com/gui/file/02c6b1f9907a1d11e707862ce94039e1)|TXT||2024-08-13 11:06:05|payload_1.ps1|
+|[c5820b229dc8481ddb15de49a16c827b](https://www.virustotal.com/gui/file/c5820b229dc8481ddb15de49a16c827b)|RAR||2026-01-14 10:46:15|853ce6e1ed15c20ee25bf205cd7d67a83b6c73a8d1c5053cd4dba2b77c1bf62e.rar|
+|[35e541cac0bda2c23ad992fb1f264568](https://www.virustotal.com/gui/file/35e541cac0bda2c23ad992fb1f264568)|RAR||2026-01-05 13:19:08|5_18_9_1436_02.01.2026.rar|
+|[e7c3699066c48bad84262fa31d704e1f](https://www.virustotal.com/gui/file/e7c3699066c48bad84262fa31d704e1f)|RAR||2025-12-25 14:48:37|D:\auto_black_abuse\resources\unzipped\20251230_083853_2025-12-25\9a3f15daaafd75dac5c3ab99538ba22f9bc59aaa631e0df5d84cee3ebba41c4a.rar|
+|[af3d3fc1fc57ebe0720b2b99c8c94f26](https://www.virustotal.com/gui/file/af3d3fc1fc57ebe0720b2b99c8c94f26)|RAR||2025-12-25 13:07:37|D:\auto_black_abuse\resources\unzipped\20251230_083853_2025-12-25\f013b00c70953fc29cf43ca3aee4510d0f8ff48347010cf43966854222f465a0.rar|
+|[21730c9bda088606993edb402ad6f3c1](https://www.virustotal.com/gui/file/21730c9bda088606993edb402ad6f3c1)|RAR||2025-12-22 06:38:53|D:\auto_black_abuse\resources\unzipped\20251225_170247_2025-12-22\adf6e9d355260999f6d9f13f6f612be2af4f0a8bb938fcb059edd9390b5e038e.Gamaredon|
+|[58bd46f23fec7ba76f83a954d25d916a](https://www.virustotal.com/gui/file/58bd46f23fec7ba76f83a954d25d916a)|RAR||2025-12-22 06:03:54|091868a217955a41e0ff5f72b3af5afe38277ce2de1a3a42117051f94ea46787.rar|
+|[3edb1b0e5718fa5b1c8f2362c4b60400](https://www.virustotal.com/gui/file/3edb1b0e5718fa5b1c8f2362c4b60400)|RAR||2025-12-19 11:05:07|D:\auto_black_abuse\resources\unzipped\20251224_091616_2025-12-19\d4472aba8a78afb5ed65b760b00f0a8fcbd051fcb953835f32924e2af2df6f0d.rar|
+|[63972def0cead409f569478ab1e3cabb](https://www.virustotal.com/gui/file/63972def0cead409f569478ab1e3cabb)|RAR||2025-12-19 11:01:09|D:\auto_black_abuse\resources\unzipped\20251224_091616_2025-12-19\6de9f436ba393744a3966b35ea2254dde2f84f5b796c6f7bee4b67ccf96ccf0a.rar|
+|[f3eeeb5b447efa5cba5a25d1f838e50a](https://www.virustotal.com/gui/file/f3eeeb5b447efa5cba5a25d1f838e50a)|TXT|Stealer|2025-11-23 15:56:00|_9627415eafc3be2756d73b4440372fc99e99e25cd53c012ffccdc5d35ce0f70b.txt|
+|[7280cfcbf0895f540a2a3be3e328e1f9](https://www.virustotal.com/gui/file/7280cfcbf0895f540a2a3be3e328e1f9)|TXT|Nemucod|2025-11-23 15:51:58|f1a52573d11b3bee874e7d29c15d952492e2f4a72e2213fdb9274d0555d90978.ps1|
+|[8f235f4138a3362a67caee9ff82a4fc4](https://www.virustotal.com/gui/file/8f235f4138a3362a67caee9ff82a4fc4)|TXT|GuLoader|2025-11-23 15:46:02|%TEMP%\peacefullycds|
+|[f9e49180954587bea9a0049f69ff5aa3](https://www.virustotal.com/gui/file/f9e49180954587bea9a0049f69ff5aa3)|HTML||2025-11-23 15:44:24|C:\Windows\0dn41.exe|
+|[9b1c9a813d94f161127099e9e0352e80](https://www.virustotal.com/gui/file/9b1c9a813d94f161127099e9e0352e80)|TXT|sLoad|2025-11-23 15:40:33|_008af94fd04c55582d9d8d6547f1276c04523494b25e7ff8f8f1bdc444abf1e7.txt|
+|[8315cdbef9807ceebde567728ac8a7a9](https://www.virustotal.com/gui/file/8315cdbef9807ceebde567728ac8a7a9)|HTML||2025-11-23 15:36:17|_aa572532ab1c8a731e7ba32e97ba180268eee8e6a74a2b9c4dc3efb669edb9af.html|
+|[757befdfc185f04d91f44593096f99fd](https://www.virustotal.com/gui/file/757befdfc185f04d91f44593096f99fd)|RAR||2025-11-20 06:59:03|82e05b396443fcedeb4b165a8e5ee4d85195b4ba0a58a085670525598e46eedd.rar|
+|[ebe378f5ab81f5842e059024b8750337](https://www.virustotal.com/gui/file/ebe378f5ab81f5842e059024b8750337)|RAR||2025-11-18 06:16:26|7b936b2885c3b02243d7cbf751f341840f26cd0de7d4910843159fbc05e1db60.rar|
+|[1ecf8888f6a7f128449d8d008e142dc4](https://www.virustotal.com/gui/file/1ecf8888f6a7f128449d8d008e142dc4)|HTML||2025-11-17 22:56:15|9b14d367c99b7d9187a58406ad3eb55e2dee12b4b2bc341f9058c622b7b87fa3.pdf|
+|[35e7f92d20ec322a7fb5f669761e261e](https://www.virustotal.com/gui/file/35e7f92d20ec322a7fb5f669761e261e)|RAR||2025-11-17 11:58:37|05f23e5c668c73128b6140b2d7265457ce334072a0b940141a839ec3e7234414.rar|
+|[58ceaf1e01ae08be019837c3d3ff355c](https://www.virustotal.com/gui/file/58ceaf1e01ae08be019837c3d3ff355c)|RAR||2025-11-13 08:00:40|3_8_2_7442_13.11.2025.rar|
+|[dc658e6203add9352b8fb2f64334852e](https://www.virustotal.com/gui/file/dc658e6203add9352b8fb2f64334852e)|RAR||2025-11-13 07:57:41|237696ecc370688a8d1894eb2f95af53a3c0f8d42eb540b7f529b4d4f4492bc0.rar|
+|[2a0ae8e52f0a7157505f06af5b04323b](https://www.virustotal.com/gui/file/2a0ae8e52f0a7157505f06af5b04323b)|RAR||2025-11-12 18:35:40|2_1_1_7755_12.11.2025.rar|
+|[c8abf5f03f8de16af910b64e949292de](https://www.virustotal.com/gui/file/c8abf5f03f8de16af910b64e949292de)|HTML||2025-11-12 18:01:46|2_1_1_7755_12.11.2025.xhtml|
+|[d6d1e1c0f3ef62ce0c01b2ff20ee1665](https://www.virustotal.com/gui/file/d6d1e1c0f3ef62ce0c01b2ff20ee1665)|RAR||2025-11-12 07:15:46|6aa9741f8b8629d0398049fa91dc5e7c28fd0d63bc76b3fd9be2dc196265263f.rar|
+|[5bafb0ab8a6f408bba0684ac03dde813](https://www.virustotal.com/gui/file/5bafb0ab8a6f408bba0684ac03dde813)|RAR||2025-11-11 08:17:14|c7726c166e1947fdbf808a50b75ca7400d56fa6fef2a76cefe314848db22c76c.rar|
+|[0b1aff6971f999c1ffa3125608f093ab](https://www.virustotal.com/gui/file/0b1aff6971f999c1ffa3125608f093ab)|RAR||2025-11-10 15:29:21|2-3716-25_07.11.2025.rar|
+|[eaea21b33841a7b3e29657745d480886](https://www.virustotal.com/gui/file/eaea21b33841a7b3e29657745d480886)|RAR||2025-11-10 14:07:10|11-967_10.11.2025.rar|
+|[2a04a7584d90cff161be936b0b3f43c0](https://www.virustotal.com/gui/file/2a04a7584d90cff161be936b0b3f43c0)|HTML||2025-11-10 09:00:40|Запит на отримання інформації командира військової частини А0135_11-967_10.11.2025.HTA|
+|[b9e2457d5d1def16a37958b29983d307](https://www.virustotal.com/gui/file/b9e2457d5d1def16a37958b29983d307)|HTML||2025-11-07 13:59:25|2-3716-25_07.11.2025.HTA|
+|[f2368a466c7a67ab3690736dd9d84f62](https://www.virustotal.com/gui/file/f2368a466c7a67ab3690736dd9d84f62)|HTML||2025-10-24 23:17:01|Повістка про виклик_357-16230-25_24.10.2025.pdf:.._.._.._.._.._.._AppData_Roaming_Microsoft_Windows_Start Menu_Programs_Startup_357-16230-25_24.10.2025.HTA|
+|[3a35496cb89ebec78da91467e2bbf5a7](https://www.virustotal.com/gui/file/3a35496cb89ebec78da91467e2bbf5a7)|RAR||2025-10-01 15:09:46|11-2967-25_23.09.2025.rar|
+|[8e23a7c87f292308948303992636032c](https://www.virustotal.com/gui/file/8e23a7c87f292308948303992636032c)|RAR||2025-09-26 11:01:53| |
+|[d6947d23583b478548d02f80f5562ad8](https://www.virustotal.com/gui/file/d6947d23583b478548d02f80f5562ad8)|HTML||2025-09-26 08:19:41|11-2967-25_26.09.2025.pdf:.._.._.._.._.._.._AppData_Roaming_Microsoft_Windows_Start Menu_Programs_Startup_11-2967-25_26.09.2025.HTA|
+|[c4d0321f932c42f4d3475842bc91333e](https://www.virustotal.com/gui/file/c4d0321f932c42f4d3475842bc91333e)|RAR||2025-09-26 08:17:44|Запит на отримання інформації (для СБУ).rar|
+|[3c5d21202aa29803a9b9d20e32346c74](https://www.virustotal.com/gui/file/3c5d21202aa29803a9b9d20e32346c74)|RAR||2025-09-26 07:56:36|Запит на отримання інформації (для СБУ).rar|
+|[bd8bd746b35be94eb0223a24793c8b7b](https://www.virustotal.com/gui/file/bd8bd746b35be94eb0223a24793c8b7b)|HTML||2025-09-23 13:41:43|11-2967-25_23.09.2025/Звернення народного депутата Верховної Ради України IX скликання  11-2967-25_23.09.2025.HTA|
+|[0de31d625e0407acb3c3bc847a8d51ab](https://www.virustotal.com/gui/file/0de31d625e0407acb3c3bc847a8d51ab)|RAR||2025-09-23 13:41:07|11-2967-25_23.09.2025.rar|
+|[0127fa1af240350a6e68f47ca2d285c2](https://www.virustotal.com/gui/file/0127fa1af240350a6e68f47ca2d285c2)|HTML||2025-09-09 05:48:54|12013150010000889_09.09.2025.htm|
+|[d4ea793a0b4947e4f5a35ee4f989f68f](https://www.virustotal.com/gui/file/d4ea793a0b4947e4f5a35ee4f989f68f)|LNK||2025-09-09 05:46:58|83141b865be20f01dbb8520577500f57ec26357153ee093c5ba46f787aab7f7c.lnk|
+|[bc1c4e1475dc0dc2b6b6a0fc0eb88fcd](https://www.virustotal.com/gui/file/bc1c4e1475dc0dc2b6b6a0fc0eb88fcd)|ZIP||2025-09-08 15:39:24|2-13476-2025_08.09.2025.rar|
+|[3adc9a5ddb93a9f599c90e05bebc4b08](https://www.virustotal.com/gui/file/3adc9a5ddb93a9f599c90e05bebc4b08)|HTML||2025-09-08 15:37:51|2-13476-2025_08.09.2025.htm|
+|[c32960d8ee9678d5bd47febf9fbbd070](https://www.virustotal.com/gui/file/c32960d8ee9678d5bd47febf9fbbd070)|HTML||2025-08-29 10:04:08|11-2709-25_29.08.2025/Щодо невиконання судового рішення відповідно до статті 382 КК України  11-2709-25_29.08.2025.HTA|
+|[52ec51b2918e3d08b38ab355c262abd7](https://www.virustotal.com/gui/file/52ec51b2918e3d08b38ab355c262abd7)|HTML||2025-08-26 14:08:23|2-3345BC-08-2025_26.08.2025.HTA|
+|[421913ed92e54f42fc90f543084b8803](https://www.virustotal.com/gui/file/421913ed92e54f42fc90f543084b8803)|HTML||2025-08-13 13:43:55|localfile~|
+|[3dddaab21b3cbaa2ac3a50b394d4c36d](https://www.virustotal.com/gui/file/3dddaab21b3cbaa2ac3a50b394d4c36d)|HTML||2025-08-07 09:50:57|_____ ______ _________ _____________ ______ 2-1273-2025_07.08.2025.HTA.bin|
+|[c9e1087e29e4be493172205b95b310b5](https://www.virustotal.com/gui/file/c9e1087e29e4be493172205b95b310b5)|ZIP||2025-08-07 08:05:44|localfile~|
+|[f4756ac0ec170bf9650324fd3e3108c2](https://www.virustotal.com/gui/file/f4756ac0ec170bf9650324fd3e3108c2)|HTML||2025-08-07 06:18:32|2-1273-2025_06.08.2025.html|
+|[f4e3c1986e7f3f7d90c33fcfa887464c](https://www.virustotal.com/gui/file/f4e3c1986e7f3f7d90c33fcfa887464c)|HTML||2025-06-26 14:02:12|2-1180-25_24.06.2025/2-1180-25_24.06.2025.HTA|
+|[0a4a5153eff06fe9cdd16a9ab621bea8](https://www.virustotal.com/gui/file/0a4a5153eff06fe9cdd16a9ab621bea8)|ZIP||2025-06-26 14:01:49|2-1180-25_24.06.2025.rar|
+|[4e6f239440ee9f18b1361c6776966ec9](https://www.virustotal.com/gui/file/4e6f239440ee9f18b1361c6776966ec9)|HTML|Nemucod|2025-06-25 13:59:14|2-1180-25_24.06.2025/2-1180-25_24.06.2025.HTA|
+|[73211ebe0b8384bfa5e1adcb5ada21d3](https://www.virustotal.com/gui/file/73211ebe0b8384bfa5e1adcb5ada21d3)|ZIP||2025-06-24 13:32:49|rl_fc249b4686f4cfd98ab016aac32ecccf947012321a321d8e6463c17401b0c700|
+|[537dcb0f73ce1aebd7b5f07f4fcaff44](https://www.virustotal.com/gui/file/537dcb0f73ce1aebd7b5f07f4fcaff44)|ZIP||2025-06-24 09:10:03|rl_ab54862f180b379cb8d612fbb22891402e7d55151dba87e7b11e45c5e45b6d7c|
+|[02b1394a8ee31ed7770e275b060b0837](https://www.virustotal.com/gui/file/02b1394a8ee31ed7770e275b060b0837)|HTML|Nemucod|2025-06-24 07:48:17|2-1180-25_24.06.2025/2-1180-25_24.06.2025.HTA|
+|[24784c11802ec72b4cdcf8f09f393072](https://www.virustotal.com/gui/file/24784c11802ec72b4cdcf8f09f393072)|ZIP|Nemucod|2025-06-24 06:40:35|rl_eed1ab171c449173059d2c5955e6ddfa73aaf952c612210b82c85137f42e01b8|
+|[d682e9d45132c9a92828d2fba59676f8](https://www.virustotal.com/gui/file/d682e9d45132c9a92828d2fba59676f8)|ZIP|Nemucod|2025-06-24 06:18:26|2-1180-25_24.06.2025.rar|
+|[49236203088230724d731b5f80d0f16f](https://www.virustotal.com/gui/file/49236203088230724d731b5f80d0f16f)|HTML||2025-06-05 13:09:49|2-1180-25_05.06.2025.HTA|
+|[04c44dc56980df576de4863458293b4c](https://www.virustotal.com/gui/file/04c44dc56980df576de4863458293b4c)|ZIP||2025-06-04 15:15:17|C:\Users\user\Downloads\2-1180-25_03.06.2025.rar (copy)|
+|[ba053b1357cb472539d6c9b9348f8e46](https://www.virustotal.com/gui/file/ba053b1357cb472539d6c9b9348f8e46)|HTML||2025-06-04 15:13:44|2-1180-25_03.06.2025.xhtml|
+|[7cd7847882bca995ee702f544035a715](https://www.virustotal.com/gui/file/7cd7847882bca995ee702f544035a715)|HTML||2025-06-04 13:01:34|C:\Users\user\Downloads\2-1180-25_04.06.2025.HTA.crdownload (copy)|
+|[331c8fed96c02b9cd4638c1094610969](https://www.virustotal.com/gui/file/331c8fed96c02b9cd4638c1094610969)|ZIP|Starter|2025-05-01 14:07:41|/scratch/zoo/2025/05/06/331c8fed96c02b9cd4638c1094610969|

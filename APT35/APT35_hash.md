@@ -7,3 +7,4 @@
 |[62fbf0622586324f7177da466d036b8f](https://www.virustotal.com/gui/file/62fbf0622586324f7177da466d036b8f)|Win64 DLL|loader|2024-10-28 11:33:54|new.dll|
 |[a2522c16248868ad666c746baf428e41](https://www.virustotal.com/gui/file/a2522c16248868ad666c746baf428e41)|Win64 DLL|loader|2024-10-28 11:33:54|Min.dll|
 |[a8d21e3ed6cd650e4ee7cdf4b207f55e](https://www.virustotal.com/gui/file/a8d21e3ed6cd650e4ee7cdf4b207f55e)|Win64 DLL||2024-10-28 11:33:54|Wow.dll|
+|[9feee6fe54ee4ec859f7bad0d798ac4e](https://www.virustotal.com/gui/file/9feee6fe54ee4ec859f7bad0d798ac4e)|Win32 EXE||2014-12-02 12:47:05|csext.exe|

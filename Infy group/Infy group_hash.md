@@ -196,3 +196,22 @@
 |[beef98ff03885a41ca0d70dcbe738bf2](https://www.virustotal.com/gui/file/beef98ff03885a41ca0d70dcbe738bf2)|Win32 EXE|Delf|2012-05-13 01:31:31|da972bbefc73e20fd3fd14d2ef4efb2bf17fff2d44888ec457c093b5255a298e.vir|
 |[23326a8d4a09f74d033e46e1dc6d0e16](https://www.virustotal.com/gui/file/23326a8d4a09f74d033e46e1dc6d0e16)|Win32 EXE|Delf|2011-07-12 10:13:50|8d8b9dcbc8c54316ac0cc3fb69058f75449ff60ffe62023f236201011920f91e.vir|
 |[06a3cdf1f52bbbbc3fbddbd80366c459](https://www.virustotal.com/gui/file/06a3cdf1f52bbbbc3fbddbd80366c459)|Win32 EXE|Delf|2007-08-16 11:08:39|06a3cdf1f52bbbbc3fbddbd80366c459|
+|[a709e023ce293fe7ca056763e2b078eb](https://www.virustotal.com/gui/file/a709e023ce293fe7ca056763e2b078eb)|Win32 EXE||2025-12-18 13:13:05|TonnerreV17_SafeBreach.exe|
+|[93e42b5608b4fb223334aa55c08b5a60](https://www.virustotal.com/gui/file/93e42b5608b4fb223334aa55c08b5a60)|Win32 DLL||2025-10-04 10:49:56|d955|
+|[5fe1d97bc3ea66931fe0f588f0411c42](https://www.virustotal.com/gui/file/5fe1d97bc3ea66931fe0f588f0411c42)|Win32 EXE||2025-10-04 10:48:14|main (1).exe|
+|[84534eeb7d5717020891839731c1ac49](https://www.virustotal.com/gui/file/84534eeb7d5717020891839731c1ac49)|Win32 DLL||2025-03-04 19:47:00|d232|
+|[0bb9432e088f2626195923e24d3c1cfe](https://www.virustotal.com/gui/file/0bb9432e088f2626195923e24d3c1cfe)|Win32 EXE||2025-03-04 19:45:05|VID_20250227_153250.exe|
+|[b5038c34306f762f727706b142734d5b](https://www.virustotal.com/gui/file/b5038c34306f762f727706b142734d5b)|Win32 EXE||2024-03-03 19:09:49|Unconfirmed 55979.crdownload|
+|[2ad44b4d904397278eb88503b23a8591](https://www.virustotal.com/gui/file/2ad44b4d904397278eb88503b23a8591)|Win32 EXE||2024-01-03 22:14:31|C:\Users\user\AppData\Local\Temp\ccupdate.tmp|
+|[ef9ba2491dbdf4fd10c259227f1df80e](https://www.virustotal.com/gui/file/ef9ba2491dbdf4fd10c259227f1df80e)|DOCX||2024-01-03 21:30:05|C:\Windows\n9uxcvx7.exe|
+|[c6f33dcb22ef9af400defdc3d5de08ee](https://www.virustotal.com/gui/file/c6f33dcb22ef9af400defdc3d5de08ee)|Win32 DLL||2023-12-19 09:13:37|d912|
+|[627b1e44f1c9f1b5c8f96ed2040773da](https://www.virustotal.com/gui/file/627b1e44f1c9f1b5c8f96ed2040773da)|Win32 EXE||2023-12-19 09:13:14|C:\Windows\b1x873pg.exe|
+|[3964b599c02f0ba06c78614c69826b91](https://www.virustotal.com/gui/file/3964b599c02f0ba06c78614c69826b91)|Win32 EXE||2021-06-13 21:37:45|Tel jam shid.exe|
+|[7e3fc426754e5d69225a57b45048e832](https://www.virustotal.com/gui/file/7e3fc426754e5d69225a57b45048e832)|Win32 EXE||2021-05-14 00:51:50|localfile~|
+|[a93fa534ca1424afdf6553f6461969d3](https://www.virustotal.com/gui/file/a93fa534ca1424afdf6553f6461969d3)|Win32 EXE||2020-06-10 05:12:18|C:\Windows\e8gzmc4xe.exe|
+|[e7e88e56bf002bdd33fdc04d32c776b3](https://www.virustotal.com/gui/file/e7e88e56bf002bdd33fdc04d32c776b3)|Win32 EXE||2020-06-07 00:54:53|C:\Windows\4hgfrs13s.exe|
+|[9f03ca4c7185f7f0e45f92bc44687234](https://www.virustotal.com/gui/file/9f03ca4c7185f7f0e45f92bc44687234)|Win32 EXE|njRAT|2017-10-06 22:23:45|7.exe|
+|[803ca8f944dc7d7c31461376f18913f1](https://www.virustotal.com/gui/file/803ca8f944dc7d7c31461376f18913f1)|Win32 EXE|njRAT|2017-10-06 22:19:35|aa5381241d4098aedad56fbb16582b38dd3ac372368519d7ec9f52612a211f3b|
+|[e75b6a8c6574ce6a49ac33f017008547](https://www.virustotal.com/gui/file/e75b6a8c6574ce6a49ac33f017008547)|Win32 EXE|Zbot|2017-10-06 21:40:50|C:\Windows\pr0bo.exe|
+|[aa742ecd08114ef99fda5b9d96a8d98b](https://www.virustotal.com/gui/file/aa742ecd08114ef99fda5b9d96a8d98b)|Win32 EXE|njRAT|2017-08-27 19:14:11|AmaqFinder1.exe|
+|[b58883b6c5525965cc7df36360cdb8b7](https://www.virustotal.com/gui/file/b58883b6c5525965cc7df36360cdb8b7)|RAR|Zbot|2017-08-27 19:00:33|C:\Users\mhmdf\Downloads\AmaqFinder1.rar|

@@ -168,3 +168,10 @@
 |[46ca088d5c052738d42bbd6231cc0ed5](https://www.virustotal.com/gui/file/46ca088d5c052738d42bbd6231cc0ed5)|TXT||2025-03-25 16:49:13|C:\Users\user\AppData\Local\Temp\toy02.dat|
 |[723f80d1843315717bc56e9e58e89be5](https://www.virustotal.com/gui/file/723f80d1843315717bc56e9e58e89be5)|TXT||2025-03-25 16:49:13|C:\Users\user\AppData\Local\Temp\toy03.bat|
 |[2f431c4e65af9908d2182c6a093bf262](https://www.virustotal.com/gui/file/2f431c4e65af9908d2182c6a093bf262)|LNK||2025-03-25 16:43:35|250513-lmvyashj7y|
+|[ad6273981cb53917cb8bda8e2f2e31a8](https://www.virustotal.com/gui/file/ad6273981cb53917cb8bda8e2f2e31a8)|LNK||2025-12-02 05:54:26|2025 북한인권 청년 아카데미 강의 주제.pdf.lnk|
+|[ea95109b608841d2f99a25bd2646ff43](https://www.virustotal.com/gui/file/ea95109b608841d2f99a25bd2646ff43)|Win64 DLL|ROKRAT|2025-12-01 08:56:08|C:\Windows\6ifkt.exe|
+|[2f3dff7779795fc01291b0a31d723aca](https://www.virustotal.com/gui/file/2f3dff7779795fc01291b0a31d723aca)|Win64 EXE|ROKRAT|2025-12-01 08:52:08|/home/petik/ss/malware/2025-12-01_2f3dff7779795fc01291b0a31d723aca_mespinoza_njrat_ryuk|
+|[7e8c24bb3b50d68227ff2b7193d548dd](https://www.virustotal.com/gui/file/7e8c24bb3b50d68227ff2b7193d548dd)|Win64 DLL|ROKRAT|2025-12-01 08:48:47|VERSION|
+|[d035135e190fb6121faa7630e4a45eed](https://www.virustotal.com/gui/file/d035135e190fb6121faa7630e4a45eed)|unknown|PhishingSite|2025-08-01 05:02:20|C:\Windows\snt0q.exe|
+|[1aec7b1227060a987d5cb6f17782e76e](https://www.virustotal.com/gui/file/1aec7b1227060a987d5cb6f17782e76e)|TXT||2025-07-31 01:54:00|C:\Users\user\AppData\Local\Temp\aio02.dat|
+|[591b2aaf1732c8a656b5c602875cbdd9](https://www.virustotal.com/gui/file/591b2aaf1732c8a656b5c602875cbdd9)|TXT||2025-07-31 01:54:00|C:\Users\user\AppData\Local\Temp\aio03.bat|

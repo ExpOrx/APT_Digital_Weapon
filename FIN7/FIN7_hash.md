@@ -641,3 +641,5 @@
 |[97c128836d92a261333f5cfad0795ead](https://www.virustotal.com/gui/file/97c128836d92a261333f5cfad0795ead)|TXT||2024-04-05 13:09:14|HadaVQeKWcKanKyWVlyS.ps1|
 |[5b5d815d52a8ee1c259cf2b4287c85c0](https://www.virustotal.com/gui/file/5b5d815d52a8ee1c259cf2b4287c85c0)|TXT||2024-04-03 18:48:02|HnKeLnn.ps1|
 |[5b0b82f5c82a59d0b2c7b1bdaabd1848](https://www.virustotal.com/gui/file/5b0b82f5c82a59d0b2c7b1bdaabd1848)|TXT||2023-11-27 19:27:31|run.ps1|
+|[06217d4e20e4cbc0eb180bc2a5d6cb2c](https://www.virustotal.com/gui/file/06217d4e20e4cbc0eb180bc2a5d6cb2c)|TXT||2025-10-17 20:40:45|install.bat|
+|[3ccfcc16c527cda7f0478b5858bc5bed](https://www.virustotal.com/gui/file/3ccfcc16c527cda7f0478b5858bc5bed)|ZIP||2025-10-17 20:34:23|test101(1).zip|

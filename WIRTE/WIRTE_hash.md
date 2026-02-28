@@ -38,3 +38,19 @@
 |[2f30d9d5f084ec2ab048b79fe981b0ea](https://www.virustotal.com/gui/file/2f30d9d5f084ec2ab048b79fe981b0ea)|XLS||2021-02-24 12:56:16|c:\windows\system32\4kn6tdn20.dll|
 |[6966624485cb56c3fcede23683e008b0](https://www.virustotal.com/gui/file/6966624485cb56c3fcede23683e008b0)|TXT||2021-01-21 14:43:51|c:\programdata\winrm.vbs|
 |[aa0ee26727b0148fe76f234bafaec4b6](https://www.virustotal.com/gui/file/aa0ee26727b0148fe76f234bafaec4b6)|XLS|o97m|2021-01-21 13:59:16|c:\windows\system32\k0hsuc6vm.dll|
+|[ae4b7ce4ae428829a0dd167bc821435c](https://www.virustotal.com/gui/file/ae4b7ce4ae428829a0dd167bc821435c)|Win64 DLL|krypyik|2025-11-13 15:43:42|wtsapi32.dll|
+|[1b6bb4a4f26b636fbfd26d24ebd2304a](https://www.virustotal.com/gui/file/1b6bb4a4f26b636fbfd26d24ebd2304a)|Win32 DLL||2025-11-13 15:20:39|SRVCLI.DLL|
+|[2a594a7c40edc8d913034ad2c5243969](https://www.virustotal.com/gui/file/2a594a7c40edc8d913034ad2c5243969)|Win32 DLL||2025-11-12 22:42:20|SRVCLI.DLL|
+|[9fd8e84ac17b7ec89d12fc35ec97bee7](https://www.virustotal.com/gui/file/9fd8e84ac17b7ec89d12fc35ec97bee7)|Win32 DLL||2025-10-10 12:24:19|NETUTILS.DLL|
+|[78d28442a81b88ca667943ba59c20638](https://www.virustotal.com/gui/file/78d28442a81b88ca667943ba59c20638)|Win32 DLL||2025-10-10 12:20:23|NETUTILS.DLL|
+|[b2a446b347e9f0ed28b8566e60f79590](https://www.virustotal.com/gui/file/b2a446b347e9f0ed28b8566e60f79590)|Win32 DLL||2025-08-20 14:12:39|wtsapi32.dll|
+|[6a673fb653facd1831b24f10257ed63d](https://www.virustotal.com/gui/file/6a673fb653facd1831b24f10257ed63d)|RAR||2025-08-20 14:12:19| |
+|[b725261299c7b9e2d22c6ea40b8b41b0](https://www.virustotal.com/gui/file/b725261299c7b9e2d22c6ea40b8b41b0)|RAR||2025-07-30 10:19:43| |
+|[4951fb674b9c26d6416a4e7c15c58cf8](https://www.virustotal.com/gui/file/4951fb674b9c26d6416a4e7c15c58cf8)|Win32 DLL||2025-06-16 11:50:52|dwmapi.dll|
+|[221969f2264dcb134ad6bf7dfa3f709c](https://www.virustotal.com/gui/file/221969f2264dcb134ad6bf7dfa3f709c)|Win32 DLL||2025-06-02 06:51:20|wtsapi32.dll|
+|[7e40b09421ddf53756e8cc8373af9b05](https://www.virustotal.com/gui/file/7e40b09421ddf53756e8cc8373af9b05)|RAR||2025-06-02 06:51:03| |
+|[cf29bf853702f46da70f744e1f6617a6](https://www.virustotal.com/gui/file/cf29bf853702f46da70f744e1f6617a6)|RAR||2025-05-11 06:58:22|/scratch/zoo/2025/05/11/cf29bf853702f46da70f744e1f6617a6|
+|[dd7d91207349c5c6329f7616df5151a1](https://www.virustotal.com/gui/file/dd7d91207349c5c6329f7616df5151a1)|Win32 DLL||2025-05-11 06:58:21|dwmapi.dll|
+|[5bb3678374c3a6737e0e0c4d19cab13c](https://www.virustotal.com/gui/file/5bb3678374c3a6737e0e0c4d19cab13c)|Win32 DLL||2025-05-06 12:07:02|dwmapi.dll|
+|[6ed13a3b733329b0c5ea21da635c90da](https://www.virustotal.com/gui/file/6ed13a3b733329b0c5ea21da635c90da)|Win32 DLL||2025-05-03 10:13:07|dwmapi.dll|
+|[3068ec7758c4456213021b0994cba71e](https://www.virustotal.com/gui/file/3068ec7758c4456213021b0994cba71e)|RAR||2025-01-01 09:36:32|C:\Users\user\Downloads\'D',*E'9 'D'3*1'*J,J DE,EH9) 'D9ED 'D'EFJ.rar (copy)|

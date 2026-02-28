@@ -1833,3 +1833,6 @@
 |[61b513e6f29d557d06a18219ab7121a7](https://www.virustotal.com/gui/file/61b513e6f29d557d06a18219ab7121a7)|FPX||2020-04-01 10:41:06| |
 |[2bcd8e901f76a21a2bdca443ab1760cc](https://www.virustotal.com/gui/file/2bcd8e901f76a21a2bdca443ab1760cc)|Mach-O fat binary executable||2024-12-24 08:44:23|ZoomApp/.ZoomApp|
 |[5d21c52e6ea7769be45f10e82b973b1e](https://www.virustotal.com/gui/file/5d21c52e6ea7769be45f10e82b973b1e)|Android|androidos|2024-12-17 14:21:15|GetAppsRu.apk|
+|[e277fb13211aa0d9d90a94baea82d64f](https://www.virustotal.com/gui/file/e277fb13211aa0d9d90a94baea82d64f)|Win64 EXE||2025-10-22 03:06:11|pv1.gif|
+|[7bc1655632dc12990575d60246ef5192](https://www.virustotal.com/gui/file/7bc1655632dc12990575d60246ef5192)|Win64 EXE||2025-08-28 03:29:50|C:\Windows\1hxf655.exe|
+|[afba9c95c169360f53e00538515bc0a5](https://www.virustotal.com/gui/file/afba9c95c169360f53e00538515bc0a5)|Win64 EXE||2025-04-28 05:42:19|Angkor.Ylw.Main.dll|

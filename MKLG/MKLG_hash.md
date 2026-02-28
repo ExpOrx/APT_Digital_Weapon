@@ -15,3 +15,8 @@
 |[e43e11b074fa7b071dec9bc294e0f95c](https://www.virustotal.com/gui/file/e43e11b074fa7b071dec9bc294e0f95c)|Win32 EXE||2016-06-30 09:47:37|s.txt|
 |[4285d5b50cc0ac8ece891c20013b40fc](https://www.virustotal.com/gui/file/4285d5b50cc0ac8ece891c20013b40fc)|Win32 EXE|Johnnie|2016-06-30 09:47:35|svchost.exe|
 |[294851a3f0669f17b48e7c1a0a239236](https://www.virustotal.com/gui/file/294851a3f0669f17b48e7c1a0a239236)|Win32 EXE||2016-06-14 04:58:01|294851a3f0669f17b48e7c1a0a239236.virus|
+|[db6bc0e947acba379e540349f74fc6ee](https://www.virustotal.com/gui/file/db6bc0e947acba379e540349f74fc6ee)|Win64 DLL||2026-01-08 14:02:59|Service.exe|
+|[b56a18df4daf038785891f33c3e89489](https://www.virustotal.com/gui/file/b56a18df4daf038785891f33c3e89489)|FPX||2026-01-08 13:58:09|YEMPlayer.msi|
+|[76f84bd0e4e1c4517c7a07a1a4bf0678](https://www.virustotal.com/gui/file/76f84bd0e4e1c4517c7a07a1a4bf0678)|Win64 DLL||2025-06-20 16:43:05|Service.exe|
+|[9f9f55bc2332a37e27a7ea69e14272c6](https://www.virustotal.com/gui/file/9f9f55bc2332a37e27a7ea69e14272c6)|Win32 EXE|Doina|2025-06-20 13:24:05|Service.exe|
+|[e2c5dfcdeef50a85e01396d6d1afd69d](https://www.virustotal.com/gui/file/e2c5dfcdeef50a85e01396d6d1afd69d)|RAR|Doina|2025-06-20 13:14:59|IMAGE_GOOGLE_53534 34534  4534534.rar|

@@ -45,3 +45,6 @@
 |[8bb1d2ac363d2b87c461f6bb84ecfac8](https://www.virustotal.com/gui/file/8bb1d2ac363d2b87c461f6bb84ecfac8)|LNK||2025-06-18 11:24:44|Suprovdnii_list_poyasnennia.docx.lnk|
 |[93f062669ec4b2df9f0d2d408cd403cb](https://www.virustotal.com/gui/file/93f062669ec4b2df9f0d2d408cd403cb)|LNK||2025-06-09 17:01:55|C:\Users\user\AppData\Local\Temp\maq52w2r.244\Zvernennya.docx.lnk|
 |[ada417d7d39121aa6822e1735ff59cc4](https://www.virustotal.com/gui/file/ada417d7d39121aa6822e1735ff59cc4)|LNK||2025-06-09 17:01:55|C:\Users\user\AppData\Local\Temp\maq52w2r.244\Vidmova_formalna.docx.lnk|
+|[1ce195f66d79587d583e4792ceb1c898](https://www.virustotal.com/gui/file/1ce195f66d79587d583e4792ceb1c898)|Win32 DLL|loader|2025-10-27 13:30:54|SQLite.Interop|
+|[739dea9edc813c83cc488010cbdc10f6](https://www.virustotal.com/gui/file/739dea9edc813c83cc488010cbdc10f6)|Win32 DLL||2025-10-27 13:30:54|CDWizard|
+|[f7a93c7918a4d8837519eb6619c25b90](https://www.virustotal.com/gui/file/f7a93c7918a4d8837519eb6619c25b90)|ZIP||2025-10-27 13:30:27|smoothieks.zip|

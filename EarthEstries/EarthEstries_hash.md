@@ -19,3 +19,16 @@
 |[9ab585db719e1cd3a18ff6447ac3e38b](https://www.virustotal.com/gui/file/9ab585db719e1cd3a18ff6447ac3e38b)|ELF executable||2024-08-03 06:57:23|Ubun_ntp|
 |[7394229455151a9cd036383027a1536b](https://www.virustotal.com/gui/file/7394229455151a9cd036383027a1536b)|Win64 EXE||2020-09-14 02:03:42|/data/modqi/samples/all/87305aa7147f71557272ba75b65c11deeba94d35d9dc6d6f7a87075e3de78bec|
 |[709be30c563b6e7a3a26bbce1050a8ba](https://www.virustotal.com/gui/file/709be30c563b6e7a3a26bbce1050a8ba)|Win32 DLL||2025-03-20 07:45:41|BrLogAPI.dll|
+|[4c71357de3c0b12094693ca6eff94cad](https://www.virustotal.com/gui/file/4c71357de3c0b12094693ca6eff94cad)|Win32 DLL||2025-10-13 03:40:01|d3d8.dll|
+|[109e5ce124b5539879a7648d221a9754](https://www.virustotal.com/gui/file/109e5ce124b5539879a7648d221a9754)|Win32 EXE|Doina|2025-09-24 12:29:15|C:\Windows\0i9du4lb.exe|
+|[e82239454075a9a290c591ceb76c99d4](https://www.virustotal.com/gui/file/e82239454075a9a290c591ceb76c99d4)|Win32 DLL|loader|2025-09-12 20:33:17|C:\Windows\wic8sfq.exe|
+|[abc167768fb1113e21428499745a239f](https://www.virustotal.com/gui/file/abc167768fb1113e21428499745a239f)|Win64 EXE||2025-07-28 14:48:29|PBfbN58lX|
+|[6b7e67d3dddf71f8c938ecceb2a639f1](https://www.virustotal.com/gui/file/6b7e67d3dddf71f8c938ecceb2a639f1)|Win64 EXE||2025-07-24 05:05:24| |
+|[ea4382db3bc25d79ff99c4fbed0e7a17](https://www.virustotal.com/gui/file/ea4382db3bc25d79ff99c4fbed0e7a17)|Win64 DLL||2025-04-02 03:57:22|wer.dll|
+|[cb0edbe42caff9e37c55d82f55b3dd9c](https://www.virustotal.com/gui/file/cb0edbe42caff9e37c55d82f55b3dd9c)|Win64 DLL||2025-03-19 00:29:25|wer.dll|
+|[b6a3d65bd0e3ca05ff34b7982252649c](https://www.virustotal.com/gui/file/b6a3d65bd0e3ca05ff34b7982252649c)|Win32 DLL|ShellLoader|2023-12-12 06:48:42|AviraProductFamily/ccwkrlib|
+|[151bb45182d6f051eb9caa72f9a914a9](https://www.virustotal.com/gui/file/151bb45182d6f051eb9caa72f9a914a9)|Win64 EXE|ChaChi|2023-11-28 21:07:51|crash.exe|
+|[676219cbef8c9b89316c7dfebf2e1d12](https://www.virustotal.com/gui/file/676219cbef8c9b89316c7dfebf2e1d12)|Win32 DLL|ShellLoader|2023-10-31 04:13:36|ccwkrlib.dll|
+|[460b1a96cf8a55535ba3cdee7f6a5e5a](https://www.virustotal.com/gui/file/460b1a96cf8a55535ba3cdee7f6a5e5a)|CAB|ShellLoader|2023-10-31 04:13:01|%TEMP%\~5b02.tmp|
+|[2e328297a4afd4ea2b482063e6a18ea3](https://www.virustotal.com/gui/file/2e328297a4afd4ea2b482063e6a18ea3)|Win64 EXE|Mimikatz|2023-03-25 04:12:35|DumpHashx64.exe|
+|[c9516626832a85a020ae0e2ff5a0bfa4](https://www.virustotal.com/gui/file/c9516626832a85a020ae0e2ff5a0bfa4)|TXT||2014-11-07 14:08:54|Exfiltration/Out-Minidump.ps1|

@@ -611,3 +611,4 @@
 |[1443248ecc8a178032093f2a6329166d](https://www.virustotal.com/gui/file/1443248ecc8a178032093f2a6329166d)|Win32 EXE|Razy|2016-10-03 09:25:12|editoz.exe|
 |[0facd3662aa226c7fa1efb14496a3a30](https://www.virustotal.com/gui/file/0facd3662aa226c7fa1efb14496a3a30)|Win32 EXE|Crimson|2016-09-12 07:53:05|filescan.exe|
 |[00c8cfda88fbf754a18d329edb8bff49](https://www.virustotal.com/gui/file/00c8cfda88fbf754a18d329edb8bff49)|Win32 EXE|Crimson|2015-10-25 07:45:44|windowsWord.exe|
+|[a827f564865318b8b7069b0c2263de0f](https://www.virustotal.com/gui/file/a827f564865318b8b7069b0c2263de0f)|ZIP||2025-12-06 03:02:15| |

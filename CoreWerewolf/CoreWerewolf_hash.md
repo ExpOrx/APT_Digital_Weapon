@@ -5,3 +5,4 @@
 |[08b6f274e353ce8baba43624eb552736](https://www.virustotal.com/gui/file/08b6f274e353ce8baba43624eb552736)|Win64 EXE|AutoIt|2024-04-03 10:16:59|Pdf|
 |[8ca78dd94dc795db041688a6eedf60a5](https://www.virustotal.com/gui/file/8ca78dd94dc795db041688a6eedf60a5)|Win64 EXE||2024-03-27 08:04:37|Pdf|
 |[df6accf05af177ac467ef9df45bfd19f](https://www.virustotal.com/gui/file/df6accf05af177ac467ef9df45bfd19f)|Win64 EXE||2024-03-26 13:12:30|Pdf|
+|[fa07ee11937f9ae30bf70158f3ad910f](https://www.virustotal.com/gui/file/fa07ee11937f9ae30bf70158f3ad910f)|Win32 EXE||2025-09-15 07:02:38|libre.exe|

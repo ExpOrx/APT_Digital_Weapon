@@ -3191,3 +3191,6 @@
 |[7be2cf1b8ab808a3c065ce3c745fc445](https://www.virustotal.com/gui/file/7be2cf1b8ab808a3c065ce3c745fc445)|Win32 EXE||2024-10-03 15:35:49|/home/petik/ss/malware/2025-07-06_7be2cf1b8ab808a3c065ce3c745fc445_amadey_darkgate_elex_rhadamanthys_smoke-loader|
 |[5bcd0f935ff12d4260ef0f69638fbbbd](https://www.virustotal.com/gui/file/5bcd0f935ff12d4260ef0f69638fbbbd)|Win32 EXE|Symmi|2020-08-08 03:26:41|TODO: <Internal name>|
 |[4c5be44a7e4fc4a5ae25a78ebbd5a3ab](https://www.virustotal.com/gui/file/4c5be44a7e4fc4a5ae25a78ebbd5a3ab)|Win32 EXE||2020-04-14 04:35:54|.data|
+|[fa15d36b2d5ad9f254b7fbc80a6a35fb](https://www.virustotal.com/gui/file/fa15d36b2d5ad9f254b7fbc80a6a35fb)|Win32 EXE||2025-12-28 13:29:52|/home/petik/ss/malware/2025-12-28_fa15d36b2d5ad9f254b7fbc80a6a35fb_amadey_coinminer_darkgate_elex_mafia_manuscrypt_rhadamanthys_smoke-loader_stealc_stop|
+|[41c1dfb2ea9e6a4d98004557e591dd3f](https://www.virustotal.com/gui/file/41c1dfb2ea9e6a4d98004557e591dd3f)|Win32 EXE|Barys|2025-09-19 13:28:20|/home/petik/ss/malware/2025-09-19_41c1dfb2ea9e6a4d98004557e591dd3f_amadey_darkgate_elex_emotet_rhadamanthys_smoke-loader_stealc_stop|
+|[76deb0720e38d85f884d70bf59c3fdc2](https://www.virustotal.com/gui/file/76deb0720e38d85f884d70bf59c3fdc2)|Win32 EXE||2025-09-18 13:47:19|C:\Windows\yni800.exe|

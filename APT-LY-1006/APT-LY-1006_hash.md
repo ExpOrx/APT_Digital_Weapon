@@ -55,3 +55,9 @@
 |[47b9086438dbc07fdeed715a3c3b8423](https://www.virustotal.com/gui/file/47b9086438dbc07fdeed715a3c3b8423)|TXT||2023-06-19 13:58:27|ab6a8718dffbe48fd8b3a74f4bcb241cde281acf9e378b0c2370a040e4d827da.bin|
 |[9332b2f46d114f0a385da99e685d46b4](https://www.virustotal.com/gui/file/9332b2f46d114f0a385da99e685d46b4)|TXT||2023-06-19 13:58:26|a5d8924f7f285f907e7e394635f31564a371dd58fad8fc621bacd5a55ca5929b.bin|
 |[b853bd31bad980ffb6e906f5904c75c8](https://www.virustotal.com/gui/file/b853bd31bad980ffb6e906f5904c75c8)|TXT||2023-06-19 13:58:26|e95e64e7ba4ef18df0282df15fc97cc76ba57ea250a0df51469337f561cc67d3.bin|
+|[bdcba2300a53ef590e0326d4843e4416](https://www.virustotal.com/gui/file/bdcba2300a53ef590e0326d4843e4416)|Win64 EXE||2025-04-29 09:15:35|/scratch/zoo/2025/04/30/bdcba2300a53ef590e0326d4843e4416|
+|[d6af9e6b29f23e91beee082c8b13ed70](https://www.virustotal.com/gui/file/d6af9e6b29f23e91beee082c8b13ed70)|Win64 EXE||2025-04-04 10:37:20|C:\Windows\8kr9y9y.exe|
+|[fba4e220a03af06a26125b3176131ba6](https://www.virustotal.com/gui/file/fba4e220a03af06a26125b3176131ba6)|Win64 EXE||2025-01-21 08:37:10|rev.exe|
+|[90f2ca0a38d6e5416ee2f6be6326521d](https://www.virustotal.com/gui/file/90f2ca0a38d6e5416ee2f6be6326521d)|Win64 EXE||2025-01-14 08:43:55|_6534d5fd803f9c85bec3a820cef54f953e8643f3a4e16677d11decbf1a5b54c7.exe|
+|[6a315cce50fc843b0e6c8606b6868be1](https://www.virustotal.com/gui/file/6a315cce50fc843b0e6c8606b6868be1)|Win64 EXE|Zbot|2024-12-18 08:47:02|Letter from the Permanent Representative of Turkmenistan to the UN addressed to the UN Secretary General regarding the launch.exe|
+|[4cdfdad1e4fdbf448d4001ad0f9b5763](https://www.virustotal.com/gui/file/4cdfdad1e4fdbf448d4001ad0f9b5763)|Win32 EXE||2021-01-28 01:12:35|POC_CloudFilter_ArbitraryFile_EoP.exe|

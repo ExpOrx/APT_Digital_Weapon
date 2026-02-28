@@ -102,3 +102,5 @@
 |[4099cff2929d423a1b2816cbbecab52f](https://www.virustotal.com/gui/file/4099cff2929d423a1b2816cbbecab52f)|TXT||2024-06-04 18:07:52|u.ps1|
 |[46f9e14a5113b24bd3374ab586287dca](https://www.virustotal.com/gui/file/46f9e14a5113b24bd3374ab586287dca)|TXT||2024-06-02 10:09:05|/var/www/clean-mx/virusesevidence/output.290241558.txt|
 |[b25317a814a5b7e01c9b7cb50e08f30c](https://www.virustotal.com/gui/file/b25317a814a5b7e01c9b7cb50e08f30c)|TXT||2024-04-04 16:54:14|Listener.ps1|
+|[ba25573c5629cbc81c717e2810ea5afc](https://www.virustotal.com/gui/file/ba25573c5629cbc81c717e2810ea5afc)|RAR||2025-09-15 19:44:25|Hiring_assistant.pdf.rar|
+|[f645558e8e7d5e4f728020af6985dd3f](https://www.virustotal.com/gui/file/f645558e8e7d5e4f728020af6985dd3f)|unknown|PhishingSite|2025-04-25 14:17:50|Your purchase receipt.pdf|

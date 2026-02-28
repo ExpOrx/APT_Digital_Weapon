@@ -554,3 +554,14 @@
 |[907432e4849168cf9ff6c58495d7e94c](https://www.virustotal.com/gui/file/907432e4849168cf9ff6c58495d7e94c)|ZIP|Pupy|2024-01-20 15:15:45|d(6)/d_eu_(1).zip|
 |[5d588b27f28a0047863f4a0bcba374cc](https://www.virustotal.com/gui/file/5d588b27f28a0047863f4a0bcba374cc)|ZIP|Pupy|2024-01-20 15:15:42|d(6)/d_ru_(1).zip|
 |[12b9746582ac9ad9ee01a0f4f9ae6972](https://www.virustotal.com/gui/file/12b9746582ac9ad9ee01a0f4f9ae6972)|ZIP|Pupy|2024-01-20 15:14:22|ddosia.zip|
+|[350080807089685338364348e6419122](https://www.virustotal.com/gui/file/350080807089685338364348e6419122)|ELF executable|ddosia|2025-04-06 20:09:19|48e9d5b0f8a2d56d31b4e845597789a81e3733c03751139a22f55ceebd15b75a.elf|
+|[7e303ba87dc7d1bfe876b6db09a55a09](https://www.virustotal.com/gui/file/7e303ba87dc7d1bfe876b6db09a55a09)|Mach-O executable|ddosia|2024-03-31 16:39:07|d_mac_arm64|
+|[da37f312f7fb7741d97bc438750c1655](https://www.virustotal.com/gui/file/da37f312f7fb7741d97bc438750c1655)|ELF executable|ddosia|2024-03-31 16:39:07|d_freebsd_x32.elf|
+|[6729b380cef552f90c299e6dcfc3d6ef](https://www.virustotal.com/gui/file/6729b380cef552f90c299e6dcfc3d6ef)|Win32 EXE|ddosia|2024-03-31 16:39:06|d_win_arm64.exe|
+|[6eef15654dd0310a0e3b440530ec0a9e](https://www.virustotal.com/gui/file/6eef15654dd0310a0e3b440530ec0a9e)|ELF executable|ddosia|2024-03-31 16:39:06|d_lin_arm|
+|[7c1eccb1ad0747158a09b251531d87b6](https://www.virustotal.com/gui/file/7c1eccb1ad0747158a09b251531d87b6)|Win64 EXE|ddosia|2024-03-31 16:39:06|d_win_x64.exe|
+|[879719a084c1923e0ca5865c4a4a66dc](https://www.virustotal.com/gui/file/879719a084c1923e0ca5865c4a4a66dc)|ELF executable|ddosia|2024-03-31 16:39:06|d_freebsd_x64.exe|
+|[b0b210e7c42a5423f51facac60afddfb](https://www.virustotal.com/gui/file/b0b210e7c42a5423f51facac60afddfb)|Win32 EXE|ddosia|2024-03-31 16:39:06|d_win_x32.exe|
+|[853ead0d757435ca8dcdbb37ffa781c6](https://www.virustotal.com/gui/file/853ead0d757435ca8dcdbb37ffa781c6)|ELF executable|ddosia|2024-03-31 16:39:05|d_freebsd_arm|
+|[de52d4bc42671d05939e2329298a0816](https://www.virustotal.com/gui/file/de52d4bc42671d05939e2329298a0816)|ELF executable|ddosia|2024-03-31 16:39:05|307e3ea1cb140f375443ef3c9b62028dd5c6449c1bf242b83d6db5d730bd2121.elf|
+|[dfa27851a5903e092126332ded4c492e](https://www.virustotal.com/gui/file/dfa27851a5903e092126332ded4c492e)|ELF executable|ddosia|2024-03-31 16:39:05|d_lin_x64|
